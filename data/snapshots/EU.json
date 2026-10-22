@@ -1,0 +1,5395 @@
+{
+  "source": "EU",
+  "url": "https://www.dma.dk/growth-and-framework-conditions/maritime-sanctions/general-information/eu-vessel-designations",
+  "fetched_at": "2026-10-22T09:48:50Z",
+  "sha256": "dd3754a56841acb12f72d6c7f2558732fc8f9b55336cd4f7d17338ddd4582903",
+  "records": [
+    {
+      "imo": "1021570",
+      "name": "Ocean 28",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "1031537",
+      "name": "Lady Jasmine",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.07.2026"
+    },
+    {
+      "imo": "1064493",
+      "name": "Ocean Fortune 18",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.07.2026"
+    },
+    {
+      "imo": "7808401",
+      "name": "Bebek-E",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.07.2026"
+    },
+    {
+      "imo": "8010427",
+      "name": "Ophelia",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.10.2025"
+    },
+    {
+      "imo": "8231057",
+      "name": "Volgoneft 251",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "20.07.2025"
+    },
+    {
+      "imo": "8414477",
+      "name": "Flandria",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.10.2025"
+    },
+    {
+      "imo": "8517839",
+      "name": "Maria",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "25.06.2024"
+    },
+    {
+      "imo": "8700096",
+      "name": "Partizansk",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "8724779",
+      "name": "Vanino",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.10.2025"
+    },
+    {
+      "imo": "8724793",
+      "name": "Korsakov",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.07.2026"
+    },
+    {
+      "imo": "8808525",
+      "name": "Bronco",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.10.2025"
+    },
+    {
+      "imo": "8821761",
+      "name": "Nimbus Spb",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "8862935",
+      "name": "Sanrayz",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.04.2026"
+    },
+    {
+      "imo": "8862935",
+      "name": "Sanrayz",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.07.2026"
+    },
+    {
+      "imo": "8867129",
+      "name": "Volgoneft 160",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "20.07.2025"
+    },
+    {
+      "imo": "8915299",
+      "name": "Damas Wave",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.07.2026"
+    },
+    {
+      "imo": "8915548",
+      "name": "Ryazan",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.10.2025"
+    },
+    {
+      "imo": "8915550",
+      "name": "Noyabrsk",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.10.2025"
+    },
+    {
+      "imo": "8918540",
+      "name": "Bergen T",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.10.2025"
+    },
+    {
+      "imo": "8920579",
+      "name": "Navik",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.10.2025"
+    },
+    {
+      "imo": "8920581",
+      "name": "Melito Carrier",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.10.2025"
+    },
+    {
+      "imo": "8984848",
+      "name": "Bilal Bey",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.07.2026"
+    },
+    {
+      "imo": "9036272",
+      "name": "Kord Arctic",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.07.2026"
+    },
+    {
+      "imo": "9036284",
+      "name": "Nordstraum",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.10.2025"
+    },
+    {
+      "imo": "9037123",
+      "name": "As Calcutta",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "19.12.2025"
+    },
+    {
+      "imo": "9056571",
+      "name": "Immanuel",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9079169",
+      "name": "Enisey",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "25.06.2024"
+    },
+    {
+      "imo": "9083184",
+      "name": "Birthe Theresi",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.10.2025"
+    },
+    {
+      "imo": "9087714",
+      "name": "Ostrov Russkiy",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9105140",
+      "name": "Taimyr",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9113276",
+      "name": "MT Konstantinovsk",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "20.07.2025"
+    },
+    {
+      "imo": "9137648",
+      "name": "Caruzo",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9142916",
+      "name": "Okean",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9144782",
+      "name": "Bodhi (formerly Robon)",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "25.06.2024"
+    },
+    {
+      "imo": "9147447",
+      "name": "Tavian",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.07.2026"
+    },
+    {
+      "imo": "9151890",
+      "name": "Odin",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9156981",
+      "name": "G.Rossini",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.07.2026"
+    },
+    {
+      "imo": "9157002",
+      "name": "Eridan",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.07.2026"
+    },
+    {
+      "imo": "9157014",
+      "name": "Solstraum",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.07.2026"
+    },
+    {
+      "imo": "9161003",
+      "name": "Lady R",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "25.06.2024"
+    },
+    {
+      "imo": "9163764",
+      "name": "Arno Babajanyan",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9164512",
+      "name": "Avior",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9164718",
+      "name": "Thoth",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.10.2025"
+    },
+    {
+      "imo": "9166314",
+      "name": "Astoria",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.04.2026"
+    },
+    {
+      "imo": "9167930",
+      "name": "Murmansk",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "19.12.2025"
+    },
+    {
+      "imo": "9168946",
+      "name": "Zevs",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9171175",
+      "name": "Cilicia",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9175078",
+      "name": "Zambra",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9179842",
+      "name": "Angara",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "25.06.2024"
+    },
+    {
+      "imo": "9183295",
+      "name": "Neon",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9183831",
+      "name": "Np Dudinka",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9186625",
+      "name": "Star Mm",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "19.12.2025"
+    },
+    {
+      "imo": "9187227",
+      "name": "Meru",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9189146",
+      "name": "Kylo",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.10.2025"
+    },
+    {
+      "imo": "9194983",
+      "name": "Deliver",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "25.02.2025"
+    },
+    {
+      "imo": "9198082",
+      "name": "Global Star",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.04.2026"
+    },
+    {
+      "imo": "9198290",
+      "name": "MD Miranda",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9198783",
+      "name": "Maria",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "20.07.2025"
+    },
+    {
+      "imo": "9199127",
+      "name": "Koen",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9205067",
+      "name": "Raven",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9206671",
+      "name": "Rangler",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9207027",
+      "name": "Vernal",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "20.07.2025"
+    },
+    {
+      "imo": "9208069",
+      "name": "Stellar Beverly",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9208124",
+      "name": "Sky Rider",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9209972",
+      "name": "Temiro",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "25.02.2025"
+    },
+    {
+      "imo": "9211896",
+      "name": "Zal Pars 3",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "19.12.2025"
+    },
+    {
+      "imo": "9211999",
+      "name": "Sofia",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.10.2025"
+    },
+    {
+      "imo": "9213313",
+      "name": "Albedo",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.07.2026"
+    },
+    {
+      "imo": "9216298",
+      "name": "East Energy",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "25.02.2025"
+    },
+    {
+      "imo": "9222560",
+      "name": "Cheetah II",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9224283",
+      "name": "Neer 1 (formerly Kapal Cantik)",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "25.02.2025"
+    },
+    {
+      "imo": "9224439",
+      "name": "Caroline Bezengi",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.10.2025"
+    },
+    {
+      "imo": "9224441",
+      "name": "Firn",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.10.2025"
+    },
+    {
+      "imo": "9224465",
+      "name": "OLAF 1",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9227443",
+      "name": "Arlan",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9229374",
+      "name": "Odune",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9230971",
+      "name": "Skadi",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "20.07.2025"
+    },
+    {
+      "imo": "9231212",
+      "name": "Xanthos Eos (formerly Mermar)",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "25.02.2025"
+    },
+    {
+      "imo": "9231509",
+      "name": "Trend",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9232888",
+      "name": "Ailama",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "20.07.2025"
+    },
+    {
+      "imo": "9232929",
+      "name": "Maisha",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9232931",
+      "name": "Narcissus",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9233349",
+      "name": "Vesna",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9233741",
+      "name": "Mitzel (formerly Olivia)",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9233765",
+      "name": "Aulis",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "20.07.2025"
+    },
+    {
+      "imo": "9233777",
+      "name": "Ocean Ii",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.04.2026"
+    },
+    {
+      "imo": "9234501",
+      "name": "Sealion I",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "20.07.2025"
+    },
+    {
+      "imo": "9234642",
+      "name": "Koala",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9235000",
+      "name": "Coatlicue",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.10.2025"
+    },
+    {
+      "imo": "9235713",
+      "name": "Amber 6",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "17.12.2024"
+    },
+    {
+      "imo": "9235725",
+      "name": "Fuga Bluemarine",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9236004",
+      "name": "Katiuska",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9236016",
+      "name": "Vision",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "20.07.2025"
+    },
+    {
+      "imo": "9236248",
+      "name": "Fenghuang",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "19.12.2025"
+    },
+    {
+      "imo": "9236353",
+      "name": "Blue",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9236640",
+      "name": "Onyx",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9236743",
+      "name": "Primorye",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.10.2025"
+    },
+    {
+      "imo": "9237228",
+      "name": "Thane",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9237412",
+      "name": "Hanson",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "19.12.2025"
+    },
+    {
+      "imo": "9240885",
+      "name": "Longevity 7",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.10.2025"
+    },
+    {
+      "imo": "9242223",
+      "name": "Adonia",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.10.2025"
+    },
+    {
+      "imo": "9243148",
+      "name": "Metagas Everest",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "25.02.2025"
+    },
+    {
+      "imo": "9243320",
+      "name": "Yehope",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.07.2026"
+    },
+    {
+      "imo": "9247376",
+      "name": "Mariel",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "20.07.2025"
+    },
+    {
+      "imo": "9247429",
+      "name": "Indri",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "20.07.2025"
+    },
+    {
+      "imo": "9247431",
+      "name": "Wilma II",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "25.02.2025"
+    },
+    {
+      "imo": "9247443",
+      "name": "Quartanus (formerly Morpheus",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9247778",
+      "name": "Breez",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "19.12.2025"
+    },
+    {
+      "imo": "9247780",
+      "name": "Turaco",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9247792",
+      "name": "Lalique",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9247883",
+      "name": "Hatti",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9248796",
+      "name": "Iron Wave",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.10.2025"
+    },
+    {
+      "imo": "9248801",
+      "name": "Ascendant",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9248849",
+      "name": "Silvera",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9249128",
+      "name": "Sakhalin",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.04.2026"
+    },
+    {
+      "imo": "9249130",
+      "name": "Peace",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "20.07.2025"
+    },
+    {
+      "imo": "9249312",
+      "name": "Izola",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9250050",
+      "name": "Pallada",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.07.2026"
+    },
+    {
+      "imo": "9250531",
+      "name": "Rozmarine",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9250543",
+      "name": "Invicta",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9250892",
+      "name": "Mikati",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "20.07.2025"
+    },
+    {
+      "imo": "9251274",
+      "name": "Crius",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "25.02.2025"
+    },
+    {
+      "imo": "9251456",
+      "name": "Daphne I",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9251743",
+      "name": "Dakar",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.07.2026"
+    },
+    {
+      "imo": "9251810",
+      "name": "Cross Ocean",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "20.07.2025"
+    },
+    {
+      "imo": "9252400",
+      "name": "Seal",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.10.2025"
+    },
+    {
+      "imo": "9252955",
+      "name": "Briont",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.10.2025"
+    },
+    {
+      "imo": "9252967",
+      "name": "Gracep",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.04.2026"
+    },
+    {
+      "imo": "9253076",
+      "name": "Reus",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9253234",
+      "name": "Gurudev",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9253313",
+      "name": "Arabela",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "20.07.2025"
+    },
+    {
+      "imo": "9253325",
+      "name": "Nurkez",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9253894",
+      "name": "Destamar",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9255244",
+      "name": "Bolognia Falcon",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9255268",
+      "name": "Andrey Pervozvanniy",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.07.2026"
+    },
+    {
+      "imo": "9255270",
+      "name": "Np Dikson",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "19.12.2025"
+    },
+    {
+      "imo": "9255282",
+      "name": "Pioneer",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.07.2026"
+    },
+    {
+      "imo": "9255660",
+      "name": "Pontus I",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "25.02.2025"
+    },
+    {
+      "imo": "9255672",
+      "name": "Lebre",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "20.07.2025"
+    },
+    {
+      "imo": "9255684",
+      "name": "Golden Eagle",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "20.07.2025"
+    },
+    {
+      "imo": "9255830",
+      "name": "Sea Marine I",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "20.07.2025"
+    },
+    {
+      "imo": "9256028",
+      "name": "Seginus",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "20.07.2025"
+    },
+    {
+      "imo": "9256054",
+      "name": "Nevskiy Prospect",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.10.2025"
+    },
+    {
+      "imo": "9256066",
+      "name": "Ligovsky Prospect",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "25.02.2025"
+    },
+    {
+      "imo": "9256078",
+      "name": "Liteyny Prospect",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.10.2025"
+    },
+    {
+      "imo": "9256602",
+      "name": "Sputnik Energy (formerly Pioneer)",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "17.12.2024"
+    },
+    {
+      "imo": "9257022",
+      "name": "Starlit",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9257137",
+      "name": "Min Hang",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9257802",
+      "name": "Furia",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.10.2025"
+    },
+    {
+      "imo": "9257814",
+      "name": "Torex",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9258002",
+      "name": "Kazan",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "25.02.2025"
+    },
+    {
+      "imo": "9258026",
+      "name": "Ederra",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "25.02.2025"
+    },
+    {
+      "imo": "9258167",
+      "name": "Akar West",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "20.07.2025"
+    },
+    {
+      "imo": "9258478",
+      "name": "Gt Honor",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "19.12.2025"
+    },
+    {
+      "imo": "9258868",
+      "name": "Noctis (formerly Luna; Asher)",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "25.02.2025"
+    },
+    {
+      "imo": "9258882",
+      "name": "Carcharodon",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9259185",
+      "name": "Daksha (formerly Hebe)",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "25.06.2024"
+    },
+    {
+      "imo": "9259197",
+      "name": "Thalia III",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9259599",
+      "name": "Akkord",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.07.2026"
+    },
+    {
+      "imo": "9259733",
+      "name": "Yi Tong",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9259745",
+      "name": "Eternal Peace",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9259991",
+      "name": "Sezar",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9260067",
+      "name": "Vision",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "20.07.2025"
+    },
+    {
+      "imo": "9260275",
+      "name": "Katran",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "20.07.2025"
+    },
+    {
+      "imo": "9260483",
+      "name": "Armada Leader",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.10.2025"
+    },
+    {
+      "imo": "9260823",
+      "name": "Fiesta",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "20.07.2025"
+    },
+    {
+      "imo": "9261401",
+      "name": "Quartz",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "19.12.2025"
+    },
+    {
+      "imo": "9261619",
+      "name": "Hannah",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9261657",
+      "name": "C Viking",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.10.2025"
+    },
+    {
+      "imo": "9262924",
+      "name": "Utaki",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "20.07.2025"
+    },
+    {
+      "imo": "9263186",
+      "name": "South Star",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.10.2025"
+    },
+    {
+      "imo": "9263198",
+      "name": "Saint",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "20.07.2025"
+    },
+    {
+      "imo": "9263203",
+      "name": "Soul",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9263643",
+      "name": "Frunze",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9263693",
+      "name": "Sino Star",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.10.2025"
+    },
+    {
+      "imo": "9264570",
+      "name": "Themis",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "20.07.2025"
+    },
+    {
+      "imo": "9265873",
+      "name": "Kamelot",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.04.2026"
+    },
+    {
+      "imo": "9265885",
+      "name": "Sea Maverick",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.10.2025"
+    },
+    {
+      "imo": "9266475",
+      "name": "Sauri",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "25.02.2025"
+    },
+    {
+      "imo": "9266750",
+      "name": "Seabass",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9266853",
+      "name": "New Power",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9266865",
+      "name": "Bivola",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "20.07.2025"
+    },
+    {
+      "imo": "9266877",
+      "name": "Pierre",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "20.07.2025"
+    },
+    {
+      "imo": "9268112",
+      "name": "Olia",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "20.07.2025"
+    },
+    {
+      "imo": "9268710",
+      "name": "Sparta",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.04.2026"
+    },
+    {
+      "imo": "9270517",
+      "name": "Cindy",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9270529",
+      "name": "Krymsk",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "25.06.2024"
+    },
+    {
+      "imo": "9270555",
+      "name": "Integrity Racer",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.04.2026"
+    },
+    {
+      "imo": "9270749",
+      "name": "Bela",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.10.2025"
+    },
+    {
+      "imo": "9271327",
+      "name": "View (formerly Cup)",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9271585",
+      "name": "Krishna 1",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "17.12.2024"
+    },
+    {
+      "imo": "9271951",
+      "name": "Facca",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "25.02.2025"
+    },
+    {
+      "imo": "9272931",
+      "name": "Garuda",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.10.2025"
+    },
+    {
+      "imo": "9273052",
+      "name": "Alissa",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "17.12.2024"
+    },
+    {
+      "imo": "9274082",
+      "name": "Tm Hai Ha 568",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.04.2026"
+    },
+    {
+      "imo": "9274331",
+      "name": "San Damian",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "17.12.2024"
+    },
+    {
+      "imo": "9274343",
+      "name": "San Cosmas",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "17.12.2024"
+    },
+    {
+      "imo": "9274434",
+      "name": "Shangri La",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.10.2025"
+    },
+    {
+      "imo": "9274446",
+      "name": "Admiral",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.07.2026"
+    },
+    {
+      "imo": "9274800",
+      "name": "Astral",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.10.2025"
+    },
+    {
+      "imo": "9276028",
+      "name": "Pegasus",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.10.2025"
+    },
+    {
+      "imo": "9276030",
+      "name": "Echo (formerly Elbrus)",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "17.12.2024"
+    },
+    {
+      "imo": "9276561",
+      "name": "PRS Ocean",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "25.02.2025"
+    },
+    {
+      "imo": "9277735",
+      "name": "Lunar Tide (formerly Beks Aqua)",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "25.06.2024"
+    },
+    {
+      "imo": "9277747",
+      "name": "Elise",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "20.07.2025"
+    },
+    {
+      "imo": "9277759",
+      "name": "Lark (formerly Lea I)",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "20.07.2025"
+    },
+    {
+      "imo": "9278064",
+      "name": "Sofos",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.10.2025"
+    },
+    {
+      "imo": "9280885",
+      "name": "Apus",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.10.2025"
+    },
+    {
+      "imo": "9281009",
+      "name": "Kai Fu",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "20.07.2025"
+    },
+    {
+      "imo": "9281011",
+      "name": "Moti",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "25.02.2025"
+    },
+    {
+      "imo": "9281152",
+      "name": "Aquilla Ii",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.10.2025"
+    },
+    {
+      "imo": "9281683",
+      "name": "Siri",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "17.12.2024"
+    },
+    {
+      "imo": "9281891",
+      "name": "Merope",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "25.02.2025"
+    },
+    {
+      "imo": "9282041",
+      "name": "Abhra",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.04.2026"
+    },
+    {
+      "imo": "9282479",
+      "name": "Minerva M",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "25.02.2025"
+    },
+    {
+      "imo": "9282481",
+      "name": "Tagor",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.10.2025"
+    },
+    {
+      "imo": "9282493",
+      "name": "Fiora",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "25.02.2025"
+    },
+    {
+      "imo": "9282792",
+      "name": "Clyde Noble",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9282986",
+      "name": "Atlanticos",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.10.2025"
+    },
+    {
+      "imo": "9283241",
+      "name": "Dignity",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "20.07.2025"
+    },
+    {
+      "imo": "9283289",
+      "name": "Thya",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9283291",
+      "name": "Tiburon",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9283306",
+      "name": "Buddha",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9284582",
+      "name": "Panda",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9284594",
+      "name": "Leopard",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9284726",
+      "name": "Bonifacy",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9285835",
+      "name": "Sea Fidelity",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "25.02.2025"
+    },
+    {
+      "imo": "9285847",
+      "name": "Sirius I",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "20.07.2025"
+    },
+    {
+      "imo": "9285859",
+      "name": "Eastern Pearl",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9286023",
+      "name": "Next",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9286073",
+      "name": "T Cereal (formerly Rolin)",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "25.02.2025"
+    },
+    {
+      "imo": "9286281",
+      "name": "Samadha",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "20.07.2025"
+    },
+    {
+      "imo": "9286463",
+      "name": "Olanga",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "19.12.2025"
+    },
+    {
+      "imo": "9286657",
+      "name": "Lokosao",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "25.02.2025"
+    },
+    {
+      "imo": "9288693",
+      "name": "Andaman Skies",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "25.02.2025"
+    },
+    {
+      "imo": "9288708",
+      "name": "Auro (formerly Stratos Aurora)",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "25.02.2025"
+    },
+    {
+      "imo": "9288710",
+      "name": "Kudos Stars",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "25.02.2025"
+    },
+    {
+      "imo": "9288722",
+      "name": "Azure Celeste",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "25.02.2025"
+    },
+    {
+      "imo": "9288734",
+      "name": "Arabesca",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9288746",
+      "name": "Udaya",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "25.02.2025"
+    },
+    {
+      "imo": "9288851",
+      "name": "Carl",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "25.02.2025"
+    },
+    {
+      "imo": "9288863",
+      "name": "Ector",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9288899",
+      "name": "Lorena Grand",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "25.02.2025"
+    },
+    {
+      "imo": "9288930",
+      "name": "Pacificos",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.10.2025"
+    },
+    {
+      "imo": "9289520",
+      "name": "N Cerna (formerly Canis Power)",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "25.06.2024"
+    },
+    {
+      "imo": "9289738",
+      "name": "Genji",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9289752",
+      "name": "Savitri",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9289776",
+      "name": "Maisan",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "20.07.2025"
+    },
+    {
+      "imo": "9290309",
+      "name": "Hulda",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "20.07.2025"
+    },
+    {
+      "imo": "9290335",
+      "name": "Jumbo",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9290373",
+      "name": "Konya",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.10.2025"
+    },
+    {
+      "imo": "9290385",
+      "name": "Elbus",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.04.2026"
+    },
+    {
+      "imo": "9290397",
+      "name": "STORMBRINGER (Ex KRITI VIGOR)",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.04.2026"
+    },
+    {
+      "imo": "9290517",
+      "name": "Vayu 1",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9290828",
+      "name": "Dorin (formerly E Mei Shan)",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "20.07.2025"
+    },
+    {
+      "imo": "9290921",
+      "name": "Beast",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9291262",
+      "name": "Silvar",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.04.2026"
+    },
+    {
+      "imo": "9292034",
+      "name": "Topaz",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "20.07.2025"
+    },
+    {
+      "imo": "9292046",
+      "name": "Nova Crest (Formerly Hasan East)",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.10.2025"
+    },
+    {
+      "imo": "9292058",
+      "name": "Tango",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "20.07.2025"
+    },
+    {
+      "imo": "9292060",
+      "name": "Talisman",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9292187",
+      "name": "Luna Luster",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.04.2026"
+    },
+    {
+      "imo": "9292199",
+      "name": "Kayseri",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.10.2025"
+    },
+    {
+      "imo": "9292204",
+      "name": "Andromeda",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "17.12.2024"
+    },
+    {
+      "imo": "9292503",
+      "name": "Bull",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "25.02.2025"
+    },
+    {
+      "imo": "9292577",
+      "name": "Ricca",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "20.07.2025"
+    },
+    {
+      "imo": "9292589",
+      "name": "Team",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9292838",
+      "name": "Listiga",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "20.07.2025"
+    },
+    {
+      "imo": "9292981",
+      "name": "Sagar Violet",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9293002",
+      "name": "Argent (formerly Jaguar)",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9293117",
+      "name": "Sun",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9293155",
+      "name": "Benedict (formerly Junia)",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9293959",
+      "name": "Fotuo",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9293997",
+      "name": "Khalasi",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "19.12.2025"
+    },
+    {
+      "imo": "9294123",
+      "name": "Chongchon",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.10.2025"
+    },
+    {
+      "imo": "9294331",
+      "name": "Lily (formerly Daban)",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9296377",
+      "name": "Majorie",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.04.2026"
+    },
+    {
+      "imo": "9296391",
+      "name": "Peta Lumina",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "17.12.2024"
+    },
+    {
+      "imo": "9296406",
+      "name": "Rigel",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9296781",
+      "name": "Krasnodar",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.07.2026"
+    },
+    {
+      "imo": "9296810",
+      "name": "Missoni",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9296822",
+      "name": "Sagitta",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9297149",
+      "name": "Revanche",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.10.2025"
+    },
+    {
+      "imo": "9297357",
+      "name": "Yanhu",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "20.07.2025"
+    },
+    {
+      "imo": "9297371",
+      "name": "Diva I",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "20.07.2025"
+    },
+    {
+      "imo": "9297541",
+      "name": "Dove",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.04.2026"
+    },
+    {
+      "imo": "9297553",
+      "name": "Monte I",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "20.07.2025"
+    },
+    {
+      "imo": "9297888",
+      "name": "Cordelia Moon",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "20.07.2025"
+    },
+    {
+      "imo": "9298492",
+      "name": "Toa Payoh",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.04.2026"
+    },
+    {
+      "imo": "9298595",
+      "name": "Dorry",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.04.2026"
+    },
+    {
+      "imo": "9299123",
+      "name": "Sofia K",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "20.07.2025"
+    },
+    {
+      "imo": "9299161",
+      "name": "Kord Atlantic",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9299173",
+      "name": "Veles",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9299666",
+      "name": "Dashan (formerly Mianzimu)",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "17.12.2024"
+    },
+    {
+      "imo": "9299678",
+      "name": "Prisma",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "20.07.2025"
+    },
+    {
+      "imo": "9299680",
+      "name": "Cangjie",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9299692",
+      "name": "Callisto",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "17.12.2024"
+    },
+    {
+      "imo": "9299707",
+      "name": "Guanyin",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.10.2025"
+    },
+    {
+      "imo": "9299719",
+      "name": "Kotlas",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "25.02.2025"
+    },
+    {
+      "imo": "9299721",
+      "name": "Leona",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.10.2025"
+    },
+    {
+      "imo": "9299733",
+      "name": "Nagarjuna",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "20.07.2025"
+    },
+    {
+      "imo": "9299769",
+      "name": "Aquatica",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "25.02.2025"
+    },
+    {
+      "imo": "9299771",
+      "name": "Mires",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.10.2025"
+    },
+    {
+      "imo": "9299862",
+      "name": "Tendua",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9299874",
+      "name": "Viper",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "20.07.2025"
+    },
+    {
+      "imo": "9299886",
+      "name": "Wall",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9299898",
+      "name": "Turbo Voyager",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "17.12.2024"
+    },
+    {
+      "imo": "9299903",
+      "name": "Deyna",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9300348",
+      "name": "Sanar-10",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.04.2026"
+    },
+    {
+      "imo": "9300350",
+      "name": "Sanar-9",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "19.12.2025"
+    },
+    {
+      "imo": "9301380",
+      "name": "Pavel Chernysh",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "25.02.2025"
+    },
+    {
+      "imo": "9301392",
+      "name": "Captain Kostichev",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "25.02.2025"
+    },
+    {
+      "imo": "9301407",
+      "name": "Viktor Titov",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "25.02.2025"
+    },
+    {
+      "imo": "9301419",
+      "name": "Yuri Senkevich",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "25.02.2025"
+    },
+    {
+      "imo": "9301421",
+      "name": "Victor Konetsky",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "25.02.2025"
+    },
+    {
+      "imo": "9301524",
+      "name": "Deneb",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "20.07.2025"
+    },
+    {
+      "imo": "9303869",
+      "name": "Abinsk",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.07.2026"
+    },
+    {
+      "imo": "9304356",
+      "name": "Yodan",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9304629",
+      "name": "Cheng He",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.10.2025"
+    },
+    {
+      "imo": "9304825",
+      "name": "Jaldhara",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "20.07.2025"
+    },
+    {
+      "imo": "9305556",
+      "name": "Marven",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.04.2026"
+    },
+    {
+      "imo": "9305568",
+      "name": "Breeze",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.10.2025"
+    },
+    {
+      "imo": "9306562",
+      "name": "Rhein",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.10.2025"
+    },
+    {
+      "imo": "9306627",
+      "name": "Huang He",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9306782",
+      "name": "Kareliya",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "25.02.2025"
+    },
+    {
+      "imo": "9306794",
+      "name": "Constellation",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "17.12.2024"
+    },
+    {
+      "imo": "9306809",
+      "name": "Innovator",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "19.12.2025"
+    },
+    {
+      "imo": "9307815",
+      "name": "Tasta",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "20.07.2025"
+    },
+    {
+      "imo": "9308065",
+      "name": "Eventin",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "25.02.2025"
+    },
+    {
+      "imo": "9308077",
+      "name": "Tyche 1",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "19.12.2025"
+    },
+    {
+      "imo": "9308132",
+      "name": "Tempest Dream",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.10.2025"
+    },
+    {
+      "imo": "9308170",
+      "name": "Ocean Jupiter",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9308443",
+      "name": "Ina",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9308821",
+      "name": "Berra",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9308833",
+      "name": "Kusto",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "20.07.2025"
+    },
+    {
+      "imo": "9308857",
+      "name": "Rymo",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "20.07.2025"
+    },
+    {
+      "imo": "9308950",
+      "name": "Seasons I",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "20.07.2025"
+    },
+    {
+      "imo": "9309576",
+      "name": "Sapphire (formerly NS Silver)",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "25.02.2025"
+    },
+    {
+      "imo": "9309588",
+      "name": "Symphony",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "25.02.2025"
+    },
+    {
+      "imo": "9310525",
+      "name": "Oilstar",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "20.07.2025"
+    },
+    {
+      "imo": "9310707",
+      "name": "Vault",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9311531",
+      "name": "Afkada",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9311610",
+      "name": "Torx",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.10.2025"
+    },
+    {
+      "imo": "9311622",
+      "name": "Vanguard",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9311751",
+      "name": "Hitit",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "19.12.2025"
+    },
+    {
+      "imo": "9312872",
+      "name": "Huihai Atlantic",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9312884",
+      "name": "Kemerovo",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "25.06.2024"
+    },
+    {
+      "imo": "9312896",
+      "name": "Krasnoyarsk",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "25.06.2024"
+    },
+    {
+      "imo": "9313498",
+      "name": "Jacklyn",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "20.07.2025"
+    },
+    {
+      "imo": "9313589",
+      "name": "Sanar-14",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "19.12.2025"
+    },
+    {
+      "imo": "9314088",
+      "name": "Lyra",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9314105",
+      "name": "Makalu",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9314167",
+      "name": "Agnes",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9314179",
+      "name": "Flint Wind",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.07.2026"
+    },
+    {
+      "imo": "9314820",
+      "name": "Oscar I",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.10.2025"
+    },
+    {
+      "imo": "9314882",
+      "name": "Himalaya",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "20.07.2025"
+    },
+    {
+      "imo": "9314894",
+      "name": "Indras",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9315446",
+      "name": "Spring",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9315654",
+      "name": "Sea Honor",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "20.07.2025"
+    },
+    {
+      "imo": "9315745",
+      "name": "Marquise",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.10.2025"
+    },
+    {
+      "imo": "9316127",
+      "name": "Vega",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "17.12.2024"
+    },
+    {
+      "imo": "9317315",
+      "name": "Luch",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.07.2026"
+    },
+    {
+      "imo": "9317949",
+      "name": "Xiwang",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "25.02.2025"
+    },
+    {
+      "imo": "9318034",
+      "name": "Olive",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9318539",
+      "name": "Swiftsea Rider",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "25.02.2025"
+    },
+    {
+      "imo": "9318541",
+      "name": "Serenade (formerly NS Stream)",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "25.06.2024"
+    },
+    {
+      "imo": "9318553",
+      "name": "Saga (formerly NS Spirit)",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "25.06.2024"
+    },
+    {
+      "imo": "9319674",
+      "name": "Night Glory",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9319686",
+      "name": "Hu Po",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "20.07.2025"
+    },
+    {
+      "imo": "9319703",
+      "name": "Great Jacombo",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "25.02.2025"
+    },
+    {
+      "imo": "9319870",
+      "name": "Maini",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9319882",
+      "name": "Aryabhata",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.10.2025"
+    },
+    {
+      "imo": "9321172",
+      "name": "Sea Owl I",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.10.2025"
+    },
+    {
+      "imo": "9321562",
+      "name": "Maverick",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.10.2025"
+    },
+    {
+      "imo": "9321677",
+      "name": "Daphne V",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.07.2026"
+    },
+    {
+      "imo": "9321689",
+      "name": "Ocean Faye",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "25.02.2025"
+    },
+    {
+      "imo": "9321691",
+      "name": "Lahar",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9321706",
+      "name": "Mercury",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "25.02.2025"
+    },
+    {
+      "imo": "9321718",
+      "name": "Zale",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.10.2025"
+    },
+    {
+      "imo": "9321847",
+      "name": "Areia (formerly Emily S)",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "17.12.2024"
+    },
+    {
+      "imo": "9321976",
+      "name": "Heidi A",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "17.12.2024"
+    },
+    {
+      "imo": "9322956",
+      "name": "Prosperity (formerly NS Pride)",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "25.02.2025"
+    },
+    {
+      "imo": "9322968",
+      "name": "Hyperion",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9323314",
+      "name": "Aditya",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.10.2025"
+    },
+    {
+      "imo": "9323326",
+      "name": "Katy",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.10.2025"
+    },
+    {
+      "imo": "9323340",
+      "name": "Tranquil Sea",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.10.2025"
+    },
+    {
+      "imo": "9323364",
+      "name": "Sinar G",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "19.12.2025"
+    },
+    {
+      "imo": "9323376",
+      "name": "Marabella Sun",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "17.12.2024"
+    },
+    {
+      "imo": "9323974",
+      "name": "Marble",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "20.07.2025"
+    },
+    {
+      "imo": "9323986",
+      "name": "Garasan",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9324277",
+      "name": "Nova Energy",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "20.07.2025"
+    },
+    {
+      "imo": "9326718",
+      "name": "Fulger",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9326720",
+      "name": "Hera",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9326885",
+      "name": "Anaya",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.07.2026"
+    },
+    {
+      "imo": "9327360",
+      "name": "Caria Ka",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9327372",
+      "name": "Tyagaraja",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "17.12.2024"
+    },
+    {
+      "imo": "9328170",
+      "name": "Aether",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.04.2026"
+    },
+    {
+      "imo": "9329655",
+      "name": "Proxima",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "20.07.2025"
+    },
+    {
+      "imo": "9329667",
+      "name": "Pacific",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "25.02.2025"
+    },
+    {
+      "imo": "9329760",
+      "name": "Eagle S",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9330472",
+      "name": "Thorin",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9330599",
+      "name": "Lumin",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "20.07.2025"
+    },
+    {
+      "imo": "9331141",
+      "name": "Kelly Grace (formerly Vela Rain)",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "25.06.2024"
+    },
+    {
+      "imo": "9331153",
+      "name": "Delvina (formerly Galian 2)",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "25.06.2024"
+    },
+    {
+      "imo": "9332028",
+      "name": "Niblo",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9332171",
+      "name": "Virent",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.07.2026"
+    },
+    {
+      "imo": "9332614",
+      "name": "Bellaris",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.07.2026"
+    },
+    {
+      "imo": "9332781",
+      "name": "Aqua Titan (formerly Lang Ya)",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "25.02.2025"
+    },
+    {
+      "imo": "9332810",
+      "name": "Kiwala",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "25.02.2025"
+    },
+    {
+      "imo": "9332822",
+      "name": "Nichole",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "25.02.2025"
+    },
+    {
+      "imo": "9332834",
+      "name": "Sooraj",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "20.07.2025"
+    },
+    {
+      "imo": "9333400",
+      "name": "Noble",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "25.02.2025"
+    },
+    {
+      "imo": "9333412",
+      "name": "Enigma",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9333424",
+      "name": "Phoenix",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "17.12.2024"
+    },
+    {
+      "imo": "9333436",
+      "name": "Success (formerly SCF Amur)",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "25.06.2024"
+    },
+    {
+      "imo": "9333670",
+      "name": "Mikhail Ulyanov",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "19.12.2025"
+    },
+    {
+      "imo": "9333670",
+      "name": "Mikhail Ulyanov",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.04.2026"
+    },
+    {
+      "imo": "9333682",
+      "name": "Kirill Lavrov",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "19.12.2025"
+    },
+    {
+      "imo": "9333785",
+      "name": "Seadar",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.04.2026"
+    },
+    {
+      "imo": "9334557",
+      "name": "Blue Talu",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "20.07.2025"
+    },
+    {
+      "imo": "9335094",
+      "name": "Varg",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.10.2025"
+    },
+    {
+      "imo": "9336426",
+      "name": "Naxos",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "20.07.2025"
+    },
+    {
+      "imo": "9336490",
+      "name": "Myra",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.10.2025"
+    },
+    {
+      "imo": "9336517",
+      "name": "Uriel",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.10.2025"
+    },
+    {
+      "imo": "9337195",
+      "name": "Siren Ii",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.04.2026"
+    },
+    {
+      "imo": "9337389",
+      "name": "Agni",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9337418",
+      "name": "Atmos",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.04.2026"
+    },
+    {
+      "imo": "9337901",
+      "name": "Rimma",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.10.2025"
+    },
+    {
+      "imo": "9338905",
+      "name": "Pate (formerly Shaanxi)",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "20.07.2025"
+    },
+    {
+      "imo": "9339301",
+      "name": "NS Leader",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "25.02.2025"
+    },
+    {
+      "imo": "9339313",
+      "name": "Ladoga",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.10.2025"
+    },
+    {
+      "imo": "9339325",
+      "name": "Level",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.10.2025"
+    },
+    {
+      "imo": "9339337",
+      "name": "Legacy (formerly NS Lotus)",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "25.06.2024"
+    },
+    {
+      "imo": "9341067",
+      "name": "Kaliningrad",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "25.06.2024"
+    },
+    {
+      "imo": "9341079",
+      "name": "Capella",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "17.12.2024"
+    },
+    {
+      "imo": "9341081",
+      "name": "Cassiopeia",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "17.12.2024"
+    },
+    {
+      "imo": "9341093",
+      "name": "Kolomna",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9343986",
+      "name": "CAPELLA MV (Formerly SEVEN PEARLS)",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.04.2026"
+    },
+    {
+      "imo": "9344033",
+      "name": "Triumph",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9345623",
+      "name": "Ru Yi",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "20.07.2025"
+    },
+    {
+      "imo": "9346720",
+      "name": "Kira K",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "20.07.2025"
+    },
+    {
+      "imo": "9346732",
+      "name": "Huihai Pacific",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "25.02.2025"
+    },
+    {
+      "imo": "9346744",
+      "name": "Ma Jin",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9346873",
+      "name": "Elodie I",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.10.2025"
+    },
+    {
+      "imo": "9347308",
+      "name": "Aura Maris",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "19.12.2025"
+    },
+    {
+      "imo": "9348479",
+      "name": "Lucky Fairy",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9350654",
+      "name": "Surrey Quays",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "25.02.2025"
+    },
+    {
+      "imo": "9352195",
+      "name": "Sandhya",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "20.07.2025"
+    },
+    {
+      "imo": "9353096",
+      "name": "Madhav",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "25.02.2025"
+    },
+    {
+      "imo": "9353113",
+      "name": "Kavya (formerly Hana)",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "25.06.2024"
+    },
+    {
+      "imo": "9353125",
+      "name": "Chandra",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9354301",
+      "name": "Jaguar (formerly Zaliv Amerika)",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "17.12.2024"
+    },
+    {
+      "imo": "9354313",
+      "name": "Zaliv Amurskiy",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "17.12.2024"
+    },
+    {
+      "imo": "9354636",
+      "name": "Flura",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "20.07.2025"
+    },
+    {
+      "imo": "9356610",
+      "name": "Alexander Nevskiy",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.07.2026"
+    },
+    {
+      "imo": "9358010",
+      "name": "Maia-1",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "25.06.2024"
+    },
+    {
+      "imo": "9360128",
+      "name": "Zaliv Baikal",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9360130",
+      "name": "Zaliv Vostok",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "25.02.2025"
+    },
+    {
+      "imo": "9360415",
+      "name": "Indus 1",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.10.2025"
+    },
+    {
+      "imo": "9368223",
+      "name": "Achilles",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "20.07.2025"
+    },
+    {
+      "imo": "9368235",
+      "name": "Fu Hai Wan",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9369617",
+      "name": "Nizami Ganjavi",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "20.07.2025"
+    },
+    {
+      "imo": "9372547",
+      "name": "Vasily Dinkov",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "19.12.2025"
+    },
+    {
+      "imo": "9372559",
+      "name": "Kapitan Gotsky",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "19.12.2025"
+    },
+    {
+      "imo": "9372561",
+      "name": "Timofey Guzhenko",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "19.12.2025"
+    },
+    {
+      "imo": "9374868",
+      "name": "Elephant",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "20.07.2025"
+    },
+    {
+      "imo": "9377042",
+      "name": "Armada Explorer",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "20.07.2025"
+    },
+    {
+      "imo": "9377779",
+      "name": "Monarch I",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "20.07.2025"
+    },
+    {
+      "imo": "9378618",
+      "name": "Si He",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9378620",
+      "name": "Ganga",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9378632",
+      "name": "Malak (formerly Ping An)",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9379052",
+      "name": "Ocean Autumn",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9379301",
+      "name": "Versa",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.04.2026"
+    },
+    {
+      "imo": "9380570",
+      "name": "Kurdos Iii",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.04.2026"
+    },
+    {
+      "imo": "9380673",
+      "name": "Centurion",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9381732",
+      "name": "Auga",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.04.2026"
+    },
+    {
+      "imo": "9382073",
+      "name": "Everdine",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.10.2025"
+    },
+    {
+      "imo": "9382712",
+      "name": "Denver",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.10.2025"
+    },
+    {
+      "imo": "9382798",
+      "name": "Trust",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "17.12.2024"
+    },
+    {
+      "imo": "9383869",
+      "name": "Saraswati",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "20.07.2025"
+    },
+    {
+      "imo": "9383950",
+      "name": "Eminent",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9384069",
+      "name": "Lion I",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "20.07.2025"
+    },
+    {
+      "imo": "9384095",
+      "name": "Ragnar",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.10.2025"
+    },
+    {
+      "imo": "9384306",
+      "name": "Universal",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9384435",
+      "name": "Belomor",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.10.2025"
+    },
+    {
+      "imo": "9384447",
+      "name": "Ji Shun",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9384459",
+      "name": "Onega",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.10.2025"
+    },
+    {
+      "imo": "9384992",
+      "name": "Mars 6",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "20.07.2025"
+    },
+    {
+      "imo": "9385142",
+      "name": "Almond",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9385233",
+      "name": "Monte Bianco (formerly San Severus)",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "17.12.2024"
+    },
+    {
+      "imo": "9385831",
+      "name": "Leruo",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "20.07.2025"
+    },
+    {
+      "imo": "9386536",
+      "name": "Spring Fortune",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9387255",
+      "name": "Azure",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.10.2025"
+    },
+    {
+      "imo": "9387279",
+      "name": "Ethera",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.10.2025"
+    },
+    {
+      "imo": "9388027",
+      "name": "Manaslu",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.10.2025"
+    },
+    {
+      "imo": "9388742",
+      "name": "Surya",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9388754",
+      "name": "Long Bai",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9388766",
+      "name": "Destan",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "20.07.2025"
+    },
+    {
+      "imo": "9388780",
+      "name": "Bai Lu",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.10.2025"
+    },
+    {
+      "imo": "9388792",
+      "name": "Unity",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "25.02.2025"
+    },
+    {
+      "imo": "9389071",
+      "name": "Tango 2",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.10.2025"
+    },
+    {
+      "imo": "9389083",
+      "name": "Tiger 6",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.04.2026"
+    },
+    {
+      "imo": "9389095",
+      "name": "Minion",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "20.07.2025"
+    },
+    {
+      "imo": "9389100",
+      "name": "Smyrtos",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "20.07.2025"
+    },
+    {
+      "imo": "9389679",
+      "name": "Lieto",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9390317",
+      "name": "Marinstraum",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.10.2025"
+    },
+    {
+      "imo": "9390587",
+      "name": "Oneiroi",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.04.2026"
+    },
+    {
+      "imo": "9392822",
+      "name": "Lotus (formerly Himalayan)",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9394935",
+      "name": "Ozanno (formerly Ocean AMZ)",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "25.06.2024"
+    },
+    {
+      "imo": "9395379",
+      "name": "Pacific 01",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9397535",
+      "name": "Jupiter",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.10.2025"
+    },
+    {
+      "imo": "9397547",
+      "name": "Ariadne",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9397559",
+      "name": "Aria",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "25.02.2025"
+    },
+    {
+      "imo": "9400980",
+      "name": "Omni",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.10.2025"
+    },
+    {
+      "imo": "9402469",
+      "name": "Freda",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9402471",
+      "name": "Apar (formerly Feng Shou; Andromeda Star)",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "25.06.2024"
+    },
+    {
+      "imo": "9402732",
+      "name": "Saathi (formerly Onrim)",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9404948",
+      "name": "Chen Lu",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "25.02.2025"
+    },
+    {
+      "imo": "9405057",
+      "name": "Tai Shan",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9408190",
+      "name": "Samos",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.10.2025"
+    },
+    {
+      "imo": "9408205",
+      "name": "Fast Kathy",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9408530",
+      "name": "Evita",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "20.07.2025"
+    },
+    {
+      "imo": "9408542",
+      "name": "Ling Hong",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.04.2026"
+    },
+    {
+      "imo": "9408554",
+      "name": "He Bo",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.04.2026"
+    },
+    {
+      "imo": "9408683",
+      "name": "Zhuo Yuan",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.07.2026"
+    },
+    {
+      "imo": "9408695",
+      "name": "Tassos",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.10.2025"
+    },
+    {
+      "imo": "9409259",
+      "name": "Spirit 2",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.10.2025"
+    },
+    {
+      "imo": "9409467",
+      "name": "Pravasi",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "25.02.2025"
+    },
+    {
+      "imo": "9411020",
+      "name": "Bratsk",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "25.02.2025"
+    },
+    {
+      "imo": "9411331",
+      "name": "Canara",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9412335",
+      "name": "Bolero",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "17.12.2024"
+    },
+    {
+      "imo": "9412347",
+      "name": "Leo",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "17.12.2024"
+    },
+    {
+      "imo": "9412359",
+      "name": "Belgorod",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "25.02.2025"
+    },
+    {
+      "imo": "9412452",
+      "name": "Nilanga",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.10.2025"
+    },
+    {
+      "imo": "9412995",
+      "name": "Kruger",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9413004",
+      "name": "Horae",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.04.2026"
+    },
+    {
+      "imo": "9413547",
+      "name": "Altair",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "17.12.2024"
+    },
+    {
+      "imo": "9413559",
+      "name": "Antarktika",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.10.2025"
+    },
+    {
+      "imo": "9413561",
+      "name": "Alliance",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "17.12.2024"
+    },
+    {
+      "imo": "9413573",
+      "name": "Atlas",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "25.02.2025"
+    },
+    {
+      "imo": "9417464",
+      "name": "Anika",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.04.2026"
+    },
+    {
+      "imo": "9418482",
+      "name": "Cetus",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "20.07.2025"
+    },
+    {
+      "imo": "9418494",
+      "name": "Zaliv Aniva",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "25.02.2025"
+    },
+    {
+      "imo": "9418509",
+      "name": "Omsk",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "19.12.2025"
+    },
+    {
+      "imo": "9419084",
+      "name": "Irkutsk",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.07.2026"
+    },
+    {
+      "imo": "9419137",
+      "name": "Sikar",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "25.02.2025"
+    },
+    {
+      "imo": "9419151",
+      "name": "Wu Tai",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "20.07.2025"
+    },
+    {
+      "imo": "9419448",
+      "name": "Heng Tai",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9419450",
+      "name": "Jewel",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "19.12.2025"
+    },
+    {
+      "imo": "9421960",
+      "name": "Primorye",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "25.02.2025"
+    },
+    {
+      "imo": "9421972",
+      "name": "Saturn",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "17.12.2024"
+    },
+    {
+      "imo": "9422445",
+      "name": "Sirius",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "17.12.2024"
+    },
+    {
+      "imo": "9422457",
+      "name": "Bobcat (formerly Blossom)",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.10.2025"
+    },
+    {
+      "imo": "9422653",
+      "name": "Gazpromneft Nordeast",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "19.12.2025"
+    },
+    {
+      "imo": "9422964",
+      "name": "Abrau",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.07.2026"
+    },
+    {
+      "imo": "9424651",
+      "name": "Manta",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9428358",
+      "name": "Xue Song",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9430210",
+      "name": "Gogland",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "20.07.2025"
+    },
+    {
+      "imo": "9430272",
+      "name": "Jin Hui",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "19.12.2025"
+    },
+    {
+      "imo": "9433016",
+      "name": "Apate",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.10.2025"
+    },
+    {
+      "imo": "9434890",
+      "name": "Nautilus",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "20.07.2025"
+    },
+    {
+      "imo": "9435337",
+      "name": "Akhty",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "20.07.2025"
+    },
+    {
+      "imo": "9435363",
+      "name": "Volga River",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9435375",
+      "name": "Irtysh River",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9436006",
+      "name": "Samsun",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9436018",
+      "name": "Venetians",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "20.07.2025"
+    },
+    {
+      "imo": "9436020",
+      "name": "Centurion I",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.10.2025"
+    },
+    {
+      "imo": "9436941",
+      "name": "Yi Meng Shan (formerly Attica)",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "17.12.2024"
+    },
+    {
+      "imo": "9437983",
+      "name": "Cai Yun",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9439383",
+      "name": "Bhilva",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.04.2026"
+    },
+    {
+      "imo": "9439539",
+      "name": "Bolu",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.10.2025"
+    },
+    {
+      "imo": "9439541",
+      "name": "Nemrut",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.10.2025"
+    },
+    {
+      "imo": "9459242",
+      "name": "Feliks",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "20.07.2025"
+    },
+    {
+      "imo": "9472634",
+      "name": "Aura 1",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.10.2025"
+    },
+    {
+      "imo": "9481910",
+      "name": "Port Olya-3",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.07.2026"
+    },
+    {
+      "imo": "9495832",
+      "name": "Black Sea Eagle",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9503304",
+      "name": "General Skobelev",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.10.2025"
+    },
+    {
+      "imo": "9511387",
+      "name": "Olympus",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9511521",
+      "name": "Meridian (formerly Moskovsky Prospect)",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "17.12.2024"
+    },
+    {
+      "imo": "9511533",
+      "name": "Rigel",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "17.12.2024"
+    },
+    {
+      "imo": "9513139",
+      "name": "Fjord Seal",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "17.12.2024"
+    },
+    {
+      "imo": "9515539",
+      "name": "Mikhail Nenashev",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "19.12.2025"
+    },
+    {
+      "imo": "9522324",
+      "name": "Sierra",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "17.12.2024"
+    },
+    {
+      "imo": "9524451",
+      "name": "Sabina",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.10.2025"
+    },
+    {
+      "imo": "9524463",
+      "name": "Sakarya",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9530917",
+      "name": "Sakina",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9537109",
+      "name": "Gazpromneft Zuid East",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.10.2025"
+    },
+    {
+      "imo": "9544281",
+      "name": "Corum",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "25.02.2025"
+    },
+    {
+      "imo": "9550137",
+      "name": "Matros Koshka",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "19.12.2025"
+    },
+    {
+      "imo": "9550682",
+      "name": "Xing Chen",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.10.2025"
+    },
+    {
+      "imo": "9573816",
+      "name": "Matros Pozynich",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "19.12.2025"
+    },
+    {
+      "imo": "9577082",
+      "name": "Premier",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "17.12.2024"
+    },
+    {
+      "imo": "9577094",
+      "name": "Pathfinder",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "17.12.2024"
+    },
+    {
+      "imo": "9582776",
+      "name": "Perun",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.07.2026"
+    },
+    {
+      "imo": "9585912",
+      "name": "Marlin",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "20.07.2025"
+    },
+    {
+      "imo": "9585924",
+      "name": "Kaluga",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "20.07.2025"
+    },
+    {
+      "imo": "9589750",
+      "name": "Danshui",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9590137",
+      "name": "Megion",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.10.2025"
+    },
+    {
+      "imo": "9599341",
+      "name": "Jupiter I",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.04.2026"
+    },
+    {
+      "imo": "9599353",
+      "name": "Venus Iii",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.04.2026"
+    },
+    {
+      "imo": "9610781",
+      "name": "Zenith",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "17.12.2024"
+    },
+    {
+      "imo": "9610793",
+      "name": "Georgy Maslov",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "17.12.2024"
+    },
+    {
+      "imo": "9610808",
+      "name": "Anatoly Kolodkin",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "25.02.2025"
+    },
+    {
+      "imo": "9610810",
+      "name": "Viktor Bakaev",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "25.02.2025"
+    },
+    {
+      "imo": "9621558",
+      "name": "Karakuz",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.04.2026"
+    },
+    {
+      "imo": "9621560",
+      "name": "Bavly",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.10.2025"
+    },
+    {
+      "imo": "9621596",
+      "name": "Stanislav Govorukhin",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.10.2025"
+    },
+    {
+      "imo": "9621601",
+      "name": "Vasily Lanovoy",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.10.2025"
+    },
+    {
+      "imo": "9624316",
+      "name": "Aura",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "20.07.2025"
+    },
+    {
+      "imo": "9630004",
+      "name": "Valera",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "20.07.2025"
+    },
+    {
+      "imo": "9630028",
+      "name": "Pearl",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "20.07.2025"
+    },
+    {
+      "imo": "9637961",
+      "name": "Sergey Terskov",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "20.07.2025"
+    },
+    {
+      "imo": "9638197",
+      "name": "Tong Yuan",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9640499",
+      "name": "Ivan Kramskoy",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.10.2025"
+    },
+    {
+      "imo": "9640516",
+      "name": "VF Tanker-3",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9640528",
+      "name": "VF Tanker-4",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9645011",
+      "name": "Sanar 18",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "20.07.2025"
+    },
+    {
+      "imo": "9645023",
+      "name": "Vasily Surikov",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.07.2026"
+    },
+    {
+      "imo": "9645061",
+      "name": "Aleksey Savrasov",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.10.2025"
+    },
+    {
+      "imo": "9650016",
+      "name": "Rn Sakhalin",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.10.2025"
+    },
+    {
+      "imo": "9655470",
+      "name": "Saturn I",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9664976",
+      "name": "Irtysh",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.07.2026"
+    },
+    {
+      "imo": "9676230",
+      "name": "Truvor",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.04.2026"
+    },
+    {
+      "imo": "9683726",
+      "name": "Dmitry Pokrovsky",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9683738",
+      "name": "Lady Sevda",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "19.12.2025"
+    },
+    {
+      "imo": "9683740",
+      "name": "Lady Leila",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "19.12.2025"
+    },
+    {
+      "imo": "9687992",
+      "name": "Orenburg",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.07.2026"
+    },
+    {
+      "imo": "9690212",
+      "name": "Stalingrad",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.04.2026"
+    },
+    {
+      "imo": "9715270",
+      "name": "Zaid",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "19.12.2025"
+    },
+    {
+      "imo": "9720263",
+      "name": "Zafar",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "19.12.2025"
+    },
+    {
+      "imo": "9735141",
+      "name": "Midvolga-3",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.07.2026"
+    },
+    {
+      "imo": "9735323",
+      "name": "Yaz",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.10.2025"
+    },
+    {
+      "imo": "9735335",
+      "name": "Sig",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.04.2026"
+    },
+    {
+      "imo": "9737187",
+      "name": "Christophe de Margerie",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "17.12.2024"
+    },
+    {
+      "imo": "9741724",
+      "name": "Alara",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.10.2025"
+    },
+    {
+      "imo": "9749154",
+      "name": "Kupava",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9752084",
+      "name": "Shturman Albanov",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "25.02.2025"
+    },
+    {
+      "imo": "9752096",
+      "name": "Shturman Malygin",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "19.12.2025"
+    },
+    {
+      "imo": "9752101",
+      "name": "Shturman Ovtsyn",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "19.12.2025"
+    },
+    {
+      "imo": "9759915",
+      "name": "Shturman Skuratov",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9759927",
+      "name": "Shturman Shcherbinin",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "19.12.2025"
+    },
+    {
+      "imo": "9759939",
+      "name": "Shturman Koshelev",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "19.12.2025"
+    },
+    {
+      "imo": "9777670",
+      "name": "Sanar-15",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "19.12.2025"
+    },
+    {
+      "imo": "9784893",
+      "name": "Lady Rania",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "19.12.2025"
+    },
+    {
+      "imo": "9809538",
+      "name": "Kumana",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.07.2026"
+    },
+    {
+      "imo": "9826902",
+      "name": "Galaxy",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "17.12.2024"
+    },
+    {
+      "imo": "9830769",
+      "name": "Hunter Star",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "25.06.2024"
+    },
+    {
+      "imo": "9832547",
+      "name": "Velmar (formerly Venture)",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9832559",
+      "name": "Virat",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "20.07.2025"
+    },
+    {
+      "imo": "9837547",
+      "name": "Mikhail Lazarev",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.04.2026"
+    },
+    {
+      "imo": "9838864",
+      "name": "Svyatoi Knyaz Vladimir",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.07.2026"
+    },
+    {
+      "imo": "9842176",
+      "name": "Vladimir Monomakh",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9842188",
+      "name": "Vladimir Vinogradov",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "17.12.2024"
+    },
+    {
+      "imo": "9842190",
+      "name": "Akademik Gubkin",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9843560",
+      "name": "Voyager",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "25.02.2025"
+    },
+    {
+      "imo": "9849887",
+      "name": "La Perouse",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "17.12.2024"
+    },
+    {
+      "imo": "9864837",
+      "name": "Arctic Mulan",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "20.07.2025"
+    },
+    {
+      "imo": "9866380",
+      "name": "Okeansky Prospect",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "17.12.2024"
+    },
+    {
+      "imo": "9866392",
+      "name": "Vostochny Prospect",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9876359",
+      "name": "Ivan Aivazovsky",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.04.2026"
+    },
+    {
+      "imo": "9885879",
+      "name": "Valentin Pikul",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.04.2026"
+    },
+    {
+      "imo": "9901025",
+      "name": "Vladimir Asenyev",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9901037",
+      "name": "Nikolay Zadornov",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "25.02.2025"
+    },
+    {
+      "imo": "9904546",
+      "name": "Aleksey Kosygin",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.07.2026"
+    },
+    {
+      "imo": "9915090",
+      "name": "Saam FSU",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "25.06.2024"
+    },
+    {
+      "imo": "9915105",
+      "name": "Koryak FSU",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "25.06.2024"
+    },
+    {
+      "imo": "9934498",
+      "name": "Nan Feng Zhi Xing",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "21.05.2025"
+    },
+    {
+      "imo": "9942392",
+      "name": "Nikolay Anishchenkov",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "24.10.2025"
+    },
+    {
+      "imo": "9953509",
+      "name": "North Air",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "17.12.2024"
+    },
+    {
+      "imo": "9953511",
+      "name": "North Mountain",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "17.12.2024"
+    },
+    {
+      "imo": "9953523",
+      "name": "North Sky",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "17.12.2024"
+    },
+    {
+      "imo": "9953535",
+      "name": "North Way",
+      "source": "EU",
+      "program": "EU Regulation 833/2014, Annex XLII",
+      "reference": "",
+      "listed_date": "17.12.2024"
+    }
+  ],
+  "record_count": 673,
+  "skipped_without_imo": 0,
+  "imo_checksum_warnings": 0
+}
