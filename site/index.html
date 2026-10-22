@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <meta name="robots" content="noindex" />
+  <title>Vessel sanctions – source status</title>
+  <style>
+    body {max-width: 850px; margin: 50px auto; padding: 0 20px; font: 16px/1.6 system-ui, sans-serif; color: #1f2937}
+    .panel {border: 1px solid #ddd; border-radius: 14px; padding: 20px}
+    h1 {font-size: 1.7rem}
+    code {overflow-wrap: anywhere}
+    #status {font-weight: 600}
+    small {color: #64748b}
+  </style>
+</head>
+<body>
+  <h1>Vessel sanctions – data publication</h1>
+  <div class="panel"><p id="status">Checking published data status…</p><div id="details"></div></div>
+  <p><small>This endpoint contains only public third-party sanctions list extracts. No customer vessel register or cargo declarations are published here. A record not found is <b>not</b> proof that a transaction is permitted.</small></p>
+  <script>
+    (async function () {
+      const s = document.getElementById('status');
+      const d = document.getElementById('details');
+      try {
+        const res = await fetch('./data/status.json', {cache: 'no-store'});
+        if (!res.ok) throw new Error('HTTP ' + res.status);
+        const value = await res.json();
+        if (!value.ready || !value.generated_at) { s.textContent = 'NOT READY – no verified data published yet'; return; }
+        const ageDays = (Date.now()-Date.parse(value.generated_at))/86400000;
+        const stale = !Number.isFinite(ageDays) || ageDays > (value.stale_after_days || 7);
+        s.textContent = stale ? 'WARNING – published data is stale' : 'Data publication available';
+        const p = document.createElement('p');
+        p.textContent = 'Generated: ' + value.generated_at + ' · IMO entries: ' + value.total_imo_count;
+        d.append(p);
+        for (const [source, meta] of Object.entries(value.sources || {})) {
+          const item = document.createElement('p');
+          item.textContent = source + ': ' + meta.record_count + ' records · last successful retrieval ' + meta.fetched_at;
+          d.append(item);
+        }
+        const q = document.createElement('p');
+        for (const [name,path] of [['JSON','./data/vessels.json'],['CSV','./data/vessels.csv'],['Status','./data/status.json']]) {
+          const a = document.createElement('a'); a.href = path; a.textContent = name;
+          q.append(a,document.createTextNode('  ·  '));
+        }
+        d.append(q);
+      } catch (e) { s.textContent='ERROR – unable to verify published data'; }
+    })();
+  </script>
+</body>
+</html>

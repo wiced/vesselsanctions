@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "settings": {
+    "minimum_source_fraction_of_previous": 0.60,
+    "stale_after_days": 7,
+    "http_timeout_seconds": 50
+  },
+  "sources": [
+    {
+      "id": "EU",
+      "label": "EU vessel designations (Danish Maritime Authority – Russia/Belarus Annex XLII)",
+      "url": "https://www.dma.dk/growth-and-framework-conditions/maritime-sanctions/general-information/eu-vessel-designations",
+      "format": "html_table",
+      "table_required_headers": ["IMO no.", "Date of application"],
+      "columns": {
+        "imo": ["IMO no.", "IMO number"],
+        "name": ["Vessel name"],
+        "listed_date": ["Date of application"]
+      },
+      "program_default": "EU Regulation 833/2014, Annex XLII",
+      "min_records": 20
+    },
+    {
+      "id": "OFAC",
+      "label": "United States – OFAC SDN vessels",
+      "url": "https://www.treasury.gov/ofac/downloads/sdn.csv",
+      "format": "csv_no_headers",
+      "delimiter": ",",
+      "positions": {"reference": 0, "name": 1, "type": 2, "program": 3, "remarks": 11},
+      "vessel_type_values": ["vessel"],
+      "imo_regex": "(?i)\\bIMO\\s*(?:No\\.?|Number)?\\s*[:#-]?\\s*(\\d{7})\\b",
+      "min_records": 10
+    },
+    {
+      "id": "UK",
+      "label": "United Kingdom – UK Sanctions List",
+      "url": "https://sanctionslist.fcdo.gov.uk/docs/UK-Sanctions-List.csv",
+      "format": "csv_with_headers",
+      "delimiter": ",",
+      "max_header_lines": 30,
+      "columns": {
+        "imo": ["IMO number", "IMO No."],
+        "name": ["Name 6"],
+        "type": ["Individual, Entity, Ship"],
+        "program": ["Regime Name"],
+        "reference": ["Unique ID"],
+        "listed_date": ["Date Designated"]
+      },
+      "vessel_type_values": ["ship"],
+      "min_records": 10
+    }
+  ]
+}
