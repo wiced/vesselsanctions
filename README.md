@@ -2,7 +2,7 @@
 
 A low-maintenance, public-source **IMO-based vessel list matcher**. GitHub Actions fetches EU/DMA, OFAC SDN and UK Sanctions List data once per day, normalizes and validates the records, and deploys public-only CSV/JSON to GitHub Pages. Insure Consult's vessel master data, declarations, credentials and private compliance evidence **must not** be stored in this repository.
 
-**Status: initial integration starter.** The website initially says `NOT READY`. The first live import must pass tests and manual spot checks before it can be relied upon. Live feed connectivity and the Nicepage integration have not yet been verified.
+**Status (2026-10-22):** The initial live import, offline tests and GitHub Pages deployment succeeded. Spot checks against official EU/OFAC/UK announcements matched sample IMO identifiers. Excel and the protected Nicepage customer page are **not yet deployed or verified**; see [INTEGRATION.md](INTEGRATION.md).
 
 ## Components
 
@@ -17,23 +17,27 @@ site/data/vessels.csv           Generated rows for Excel Power Query
 site/data/status.json           Generated data freshness / counts
 PROJECT_PLAN.md                Project phases, owner and acceptance criteria
 OPERATIONS.md                  How to maintain, verify and troubleshoot
-examples/nicepage-imo.js       Safe integration example, not login/authentication
+examples/nicepage-embed.html    Nicepage form replacing the former hard-coded IMO list
+examples/nicepage-imo.js       API-only sample (not authentication)
+examples/SanktsiooniVasted.pq  Excel Power Query JSON + freshness/coverage validation
+examples/LaevadeKontroll.pq    Excel private-vessel-table join by IMO
+INTEGRATION.md                Deployment and acceptance checklist
 ```
 
 ## First-time deployment
 
-1. Create a **new public** repository named `insure-consult-vessel-sanctions` under an appropriate account (preferably owned by Insure Consult). Do **not** place customer data here. Set default branch to `main`.
+1. Repository currently: [wiced/vesselsanctions](https://github.com/wiced/vesselsanctions), branch `main`, public. Plan transfer of ownership/administration to the Insure Consult team before handover.
 2. Upload/commit the entire repository content, preserving `.github/workflows/` and `config/`.
 3. Open repository **Settings → Pages → Build and deployment → Source: GitHub Actions**. GitHub requires this setting to enable custom Pages deployments.
 4. Open **Actions → Update vessel sanctions and publish data → Run workflow**. The workflow tests, downloads all three official feeds, validates, commits last-good snapshots, and deploys Pages **only if all three succeed**.
-5. Verify Actions run, `site/data/status.json`, `site/data/vessels.json` and `site/data/vessels.csv`. Check IMO `9179842` against the EU source and spot-check OFAC and UK source matches. If an adapter fails, see `OPERATIONS.md`.
-6. Add Nicepage and Excel integrations **only after** data correctness and freshness are verified.
+5. The first successful run published `site/data/status.json`, `site/data/vessels.json` and `site/data/vessels.csv`. Periodically validate IMO examples against the official sources; see `OPERATIONS.md`.
+6. Prepare Nicepage and Excel using [INTEGRATION.md](INTEGRATION.md); integration examples are committed but have not yet been applied to the client's private site or workbook.
 
 GitHub Pages publication URLs (once activated):
 
-- `https://<OWNER>.github.io/insure-consult-vessel-sanctions/data/vessels.json`
-- `https://<OWNER>.github.io/insure-consult-vessel-sanctions/data/vessels.csv`
-- `https://<OWNER>.github.io/insure-consult-vessel-sanctions/data/status.json`
+- `https://wiced.github.io/vesselsanctions/data/vessels.json`
+- `https://wiced.github.io/vesselsanctions/data/vessels.csv`
+- `https://wiced.github.io/vesselsanctions/data/status.json`
 
 **Pages is public, even if Nicepage is password-protected.** No credentials, customer vessels or private declarations may be placed on Pages. The example `nicepage-imo.js` is not an authentication mechanism. Hosting security must remain at the protected Nicepage site.
 
