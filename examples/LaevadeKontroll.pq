@@ -5,9 +5,14 @@ let
     Source = try Excel.CurrentWorkbook(){[Name="Vessel_List"]}[Content]
         otherwise error Error.Record("VESSEL_LIST_TABLE_NOT_FOUND",
             "Selles töövihikus puudub Exceli tabel Vessel_List. Märgista Vessel List andmed, vali Ctrl+T, kinnita päised ja määra Table Design menüüs tabeli nimeks Vessel_List.", null),
-    // Works with both the original workbook and the smaller exported snapshot.
-    RemoveOld = Table.RemoveColumns(Source,
-        List.Intersect({Table.ColumnNames(Source), {"EU Sanctions", "OFAC SDN", "UK Sanctions", "IMO kontroll", "Koondtulemus", "AndmedSeisugaUTC"}})),
+    // The original Excel and the generated snapshot have different existing
+    // screening columns. Always keep only original vessel fields before adding
+    // recalculated columns; this also prevents duplicate "IMO kontroll" errors.
+    CalculatedColumns = {"EU Sanctions", "OFAC SDN", "UK Sanctions",
+        "IMO kontroll", "Koondtulemus", "AndmedSeisugaUTC", "IMO_key",
+        "EU_vaste", "OFAC_vaste", "UK_vaste", "SanktsioonideVasted"},
+    OriginalColumns = List.Difference(Table.ColumnNames(Source), CalculatedColumns),
+    RemoveOld = Table.SelectColumns(Source, OriginalColumns),
     Key = Table.AddColumn(RemoveOld, "IMO_key", each
         let v = [Vessel IMO No], s = if v = null then "" else Text.Trim(Text.From(v))
         in if Text.StartsWith(Text.Upper(s), "IMO") then Text.Trim(Text.Range(s, 3)) else s, type text),
