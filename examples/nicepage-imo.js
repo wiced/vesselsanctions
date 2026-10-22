@@ -1,8 +1,10 @@
-// EXAMPLE ONLY – embed on an authenticated Nicepage page after testing.
-// Replace URL after Pages is enabled. This script does NOT provide authentication.
-const DATA_ROOT = 'https://OWNER.github.io/insure-consult-vessel-sanctions/data';
+// Low-level API example only. For the actual Nicepage form use nicepage-embed.html.
+// Deploy only on a separately authenticated Nicepage page; JavaScript is not authentication.
+const DATA_ROOT = 'https://wiced.github.io/vesselsanctions/data';
 const MAX_AGE_DAYS = 7;
 let sanctionsCache = null;
+let sanctionsCacheLoadedAt = 0;
+const CACHE_MS = 5 * 60 * 1000;
 
 async function loadSanctions() {
   const [statusResponse, dataResponse] = await Promise.all([
@@ -20,6 +22,7 @@ async function loadSanctions() {
   }
   if (status.generated_at !== data.generated_at) throw Error('Dataset mismatch');
   sanctionsCache = data;
+  sanctionsCacheLoadedAt = Date.now();
   return data;
 }
 
@@ -27,7 +30,8 @@ async function checkIMO(input) {
   const imo = String(input).trim().replace(/^IMO\s*/i, '');
   if (!/^\d{7}$/.test(imo)) return {status: 'INVALID_IMO', imo};
   try {
-    const data = sanctionsCache || await loadSanctions();
+    const data = (sanctionsCache && Date.now() - sanctionsCacheLoadedAt < CACHE_MS)
+      ? sanctionsCache : await loadSanctions();
     const ship = data.vessels?.[imo];
     if (!ship) return {status: 'NO_LIST_MATCH', imo, checkedAgainst: ['EU','OFAC','UK'], dataAt: data.generated_at};
     return {status: 'MATCH', imo, ship, dataAt: data.generated_at};
