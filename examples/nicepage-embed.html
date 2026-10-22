@@ -1,0 +1,139 @@
+<!-- Insure Consult: paste the WHOLE block into the existing AUTHENTICATED Nicepage page.
+     Replace the old <script> g_vellel=... and old IMO form; do not run both.
+     Public Pages contains only public sanctions data; this form must remain protected by Nicepage. -->
+<div id="ic-sanctions" class="ic-sanctions">
+  <form id="ic-imo-form" class="imo-form">
+    <label for="imo">Laeva IMO number</label>
+    <input id="imo" name="imo" type="text" inputmode="numeric" maxlength="20"
+           placeholder="Näiteks 9179842" autocomplete="off" required>
+    <button type="submit" id="ic-check">Kontrolli</button>
+  </form>
+  <p id="ic-state" role="status" aria-live="polite"></p>
+  <div id="ok" class="alert alert-ok" style="display:none"></div>
+  <div id="err" class="alert alert-err" style="display:none"></div>
+  <div id="ic-details"></div>
+  <p class="ic-disclaimer">Kontroll hõlmab vaid EL/DMA Annex XLII, OFAC SDN ja UK Sanctions List
+    laevakirjeid. Vaste puudumine ei kinnita tehingu lubatavust ega välista muid sanktsioone.</p>
+</div>
+<style>
+  .ic-sanctions {max-width:650px;font:inherit}
+  .ic-sanctions form {display:flex;gap:.65rem;flex-wrap:wrap;align-items:end}
+  .ic-sanctions label {width:100%;font-weight:600}
+  .ic-sanctions input {padding:.7rem;border:1px solid #999;border-radius:6px;max-width:230px;width:100%}
+  .ic-sanctions button {padding:.75rem 1.2rem;border:0;border-radius:6px;background:#234f70;color:white;cursor:pointer}
+  .ic-sanctions button:disabled {opacity:.65;cursor:wait}
+  .ic-sanctions .alert {padding:.9rem;margin:.7rem 0;border-radius:6px}
+  .ic-sanctions .alert-ok {background:#fff6da;color:#594500}
+  .ic-sanctions .alert-err {background:#ffe6e6;color:#7a1616;font-weight:600}
+  .ic-sanctions #ic-state {font-size:.9rem}
+  .ic-sanctions #ic-details p {margin:.35rem 0}
+  .ic-sanctions .ic-disclaimer {font-size:.85rem;line-height:1.45;color:#555}
+</style>
+<script>
+(function () {
+  'use strict';
+  const ROOT = 'https://wiced.github.io/vesselsanctions/data/';
+  const SOURCES = {EU:'EL / DMA Annex XLII',OFAC:'USA / OFAC SDN',UK:'Ühendkuningriik / UK Sanctions List'};
+  const MAX_AGE_DAYS = 7;
+  const CACHE_MS = 5 * 60 * 1000;
+  const form = document.getElementById('ic-imo-form');
+  const input = document.getElementById('imo');
+  const button = document.getElementById('ic-check');
+  const state = document.getElementById('ic-state');
+  const ok = document.getElementById('ok');
+  const err = document.getElementById('err');
+  const details = document.getElementById('ic-details');
+  let cache = null, cacheTime = 0;
+
+  function normalizeIMO(raw) {
+    return String(raw || '').trim().replace(/^IMO\s*(?:no\.?|number)?\s*[:#-]?\s*/i,'').trim();
+  }
+  function validIMO(imo) {
+    if (!/^\d{7}$/.test(imo)) return false;
+    const weights = [7,6,5,4,3,2];
+    let sum = 0;
+    for (let i=0;i<6;i++) sum += Number(imo[i])*weights[i];
+    return sum % 10 === Number(imo[6]);
+  }
+  function textNode(parent, tag, value) {
+    const element = document.createElement(tag);
+    element.textContent = String(value == null ? '' : value);
+    parent.appendChild(element);
+    return element;
+  }
+  function reset() {
+    ok.style.display='none';
+    err.style.display='none';
+    ok.textContent='';
+    err.textContent='';
+    details.replaceChildren();
+    state.textContent='';
+  }
+  function sourceOK(meta) {
+    return meta && Number(meta.record_count)>0 && !Number.isNaN(Date.parse(meta.fetched_at));
+  }
+  async function load() {
+    if (cache && Date.now()-cacheTime < CACHE_MS) return cache;
+    const [statusResponse, dataResponse] = await Promise.all([
+      fetch(ROOT+'status.json',{cache:'no-store'}),
+      fetch(ROOT+'vessels.json',{cache:'no-store'})
+    ]);
+    if (!statusResponse.ok || !dataResponse.ok) throw Error('Andmeallikas pole kättesaadav');
+    const [status,data] = await Promise.all([statusResponse.json(),dataResponse.json()]);
+    const age = (Date.now()-Date.parse(status.generated_at))/86400000;
+    if (status.ready !== true || !Number.isFinite(age) || age > MAX_AGE_DAYS || age < -1/24)
+      throw Error('Sanktsioonide andmed on aegunud või kinnitamata');
+    if (status.generated_at !== data.generated_at || status.schema_version !== data.schema_version)
+      throw Error('Andmestiku versioonid ei ühti');
+    if (!data.vessels || typeof data.vessels !== 'object' ||
+        !Number.isInteger(status.total_imo_count) || status.total_imo_count < 1 ||
+        Object.keys(data.vessels).length !== status.total_imo_count)
+      throw Error('Sanktsioonide andmestik ei läbinud struktuurikontrolli');
+    if (Object.keys(SOURCES).some(s => !sourceOK(status.sources?.[s]) || !sourceOK(data.sources?.[s])))
+      throw Error('Üks sanktsiooniallikatest puudub või on vigane');
+    cache = data;
+    cacheTime = Date.now();
+    return data;
+  }
+  form.addEventListener('submit', async function (event) {
+    event.preventDefault();
+    reset();
+    const imo = normalizeIMO(input.value);
+    if (!validIMO(imo)) {
+      state.textContent='Sisesta korrektne 7-kohaline IMO number (kontrollnumbriga).';
+      return;
+    }
+    button.disabled=true;
+    state.textContent='Kontrollin nimekirju…';
+    try {
+      const data=await load();
+      const matched=data.vessels[imo];
+      const time=new Date(data.generated_at).toLocaleString('et-EE',{timeZone:'Europe/Tallinn'});
+      state.textContent='Nimekirjade andmete seis: '+time+' (Eesti aeg).';
+      if (!matched || !Array.isArray(matched.matches) || matched.matches.length===0) {
+        ok.textContent='VASTET EI LEITUD kontrollitud EL, OFAC SDN ja UK laevade nimekirjadest. See ei tähenda sanktsioonidest vabastamist.';
+        ok.style.display='block';
+        return;
+      }
+      err.textContent='SANKTSIOONIVASTE LEITUD – vajalik täiendav kontroll enne menetlemist.';
+      err.style.display='block';
+      textNode(details,'p','IMO: '+imo);
+      for (const m of matched.matches) {
+        const paragraph=document.createElement('p');
+        paragraph.textContent=(SOURCES[m.source] || m.source)+': '+(m.name || matched.name)+
+          (m.program?' | '+m.program:'')+
+          (m.reference?' | Viide: '+m.reference:'')+
+          (m.listed_date?' | Nimekirjas: '+m.listed_date:'');
+        details.appendChild(paragraph);
+      }
+    } catch(e) {
+      err.textContent='KONTROLL EI OLE SAADAVAL – '+(e.message || 'andmeviga')+
+        '. Ära käsitle seda puuduvaks sanktsioonivasteks.';
+      err.style.display='block';
+      state.textContent='';
+    } finally {
+      button.disabled=false;
+    }
+  });
+})();
+</script>
