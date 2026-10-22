@@ -19,8 +19,9 @@ PROJECT_PLAN.md                Project phases, owner and acceptance criteria
 OPERATIONS.md                  How to maintain, verify and troubleshoot
 examples/nicepage-embed.html    Nicepage form replacing the former hard-coded IMO list
 examples/nicepage-imo.js       API-only sample (not authentication)
-examples/SanktsiooniVasted.pq  Excel Power Query JSON + freshness/coverage validation
-examples/LaevadeKontroll.pq    Excel private-vessel-table join by IMO
+examples/Sanktsioonid.pq       Excel public JSON -> IMO/source flags with freshness validation
+examples/SanktsiooniVasted.pq   Alternative long-form match rows with source details
+examples/LaevadeKontroll.pq     Merge onto existing private Vessel_List table
 INTEGRATION.md                Deployment and acceptance checklist
 ```
 
@@ -43,7 +44,7 @@ GitHub Pages publication URLs (once activated):
 
 ## Read-only usage
 
-- **Excel / Power Query**: Data → Get Data → From Web → CSV URL; cast `imo` to **text**, never an integer; do a merge on IMO. Prefer stable, refreshed local query data over cross-workbook formula links. Keep the existing master vessel register and premium formulas separate.
+- **Excel / Power Query**: The verified user's actual Excel input table is `Vessel_List` and IMO column is `Vessel IMO No`. Use `examples/Sanktsioonid.pq` and `examples/LaevadeKontroll.pq` to create a separate refreshed results sheet. Keep private master rows and any premium formulas separate. Read `INTEGRATION.md`.
 - **Nicepage (authenticated)**: Load JSON/status from Pages, validate IMO, display matches by source. Test Cross-Origin Resource Sharing (CORS) in the actual hosting environment. Do not label a nonmatch `cleared` or `allowed`.
 - **Power Automate**: Future phase – check monthly cargo lists and save PDF with vessel IMO, list versions, results and check timestamp in a private SharePoint library. Do not disclose declarations publicly.
 
