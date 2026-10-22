@@ -91,6 +91,7 @@ def parse_csv_with_headers(content, cfg):
     required = ('imo', 'name', 'type')
     indexes = None
     seen_rows = 0
+    header_samples = []
     records = []
     skipped = 0
     for row in rows:
@@ -100,8 +101,20 @@ def parse_csv_with_headers(content, cfg):
                 indexes = map_headers(row, columns, required=required)
                 continue
             except ImportProblem:
+                # Include sanitized structural diagnostics to distinguish CSV layout
+                # changes from malformed files, without logging whole source records.
+                if len(header_samples) < 4:
+                    header_samples.append({
+                        'line': seen_rows,
+                        'field_count': len(row),
+                        'fields': [clean(v)[:90] for v in row[:55]],
+                    })
                 if seen_rows >= cfg.get('max_header_lines', 30):
-                    raise ImportProblem('CSV header row missing or incompatible; check config/sources.json')
+                    raise ImportProblem(
+                        'CSV header row missing or incompatible; '
+                        'check config/sources.json. '
+                        f'First CSV rows: {header_samples!r}'
+                    )
                 continue
         if not any(clean(c) for c in row):
             continue
