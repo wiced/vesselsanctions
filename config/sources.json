@@ -41,7 +41,7 @@
       "columns": {
         "imo": ["IMO number", "IMO No."],
         "name": ["Name 6"],
-        "type": ["Individual, Entity, Ship"],
+        "type": ["Designation Type"],
         "program": ["Regime Name"],
         "reference": ["Unique ID"],
         "listed_date": ["Date Designated"]
