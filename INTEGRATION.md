@@ -25,23 +25,26 @@ Varem kasutatud HTML-koodis on muutuja g_vellel ja funktsioon validateValue. Nee
 
 **Oluline:** vaste puudumine kontrollitud IMO-nimekirjadest EI tähenda, et laev või tehing on sanktsioonide mõttes lubatud.
 
-## Excel – Power Query
+## Excel – kontrollitud algfaili struktuur (22.10.2026)
 
-Failid: examples/SanktsiooniVasted.pq ja examples/LaevadeKontroll.pq.
+Kliendi üles laaditud algse Exceli lehed: **Vessel List**, **sdn**, **UK-Sanctions-List**, **EU Sanctioned Vessels**. Peamine Excel Table on **Vessel_List**, IMO on veerg **Vessel IMO No**. Olemasolevates **J:L** veergudes on vanad XLOOKUP-id, mis tagastavad sageli "No Sanctions" ka siis, kui allikad on aegunud. UK lähteleht on 57 614 rea pikkune; originaali sees on olemas kolme vana Power Query ühenduse metaandmed. Algset faili ei kirjutatud üle.
 
-1. Ava kliendi PRIVAATNE Excel: Data → Get Data → From Other Sources → Blank Query → Advanced Editor. Kopeeri esimese PQ-faili kogu M-kood, nimeta päring SanktsiooniVasted.
-2. Veebiühenduse autentimiseks kasuta Anonymous, sest GitHub Pagesi sanktsiooniandmestik on avalik.
-3. Veendu, et IMO on tekstiväli. Esimese päringu väljundis on IMO, Laev, Allikas, Programm, Viide, NimekirjaKuupaev ja AndmedSeisugaUTC.
-4. Teises, kliendi laevade võrdluse päringus eeldatakse kohaliku Exceli Table nimega Laevad ja selle veergu IMO (tekst). Kui see tabel on olemas, kopeeri teise PQ-faili M-kood uude tühja päringusse ja nimeta see LaevadeKontroll.
-5. Väljund säilitab kliendi enda laevaregistri veerud ja lisab SanctionSources, SanctionEntries, SanctionScreening ja SanctionsDataAtUTC.
-6. Laadi ühendatud tulemus eraldi lehele. Ära kirjuta olemasolevate kindlustuspreemia valemite peale. Vajadusel ühenda vana arvutuslehe kõrvalveerud IMO järgi, näiteks XLOOKUP abil.
-7. Tee Data → Refresh All. Kontrolli Queries & Connections, et mõlemad päringud õnnestusid. Nurjunud uuenduse korral võib Excel kuvada vanemat laetud andmestikku; seda ei tohi kasutada värske kontrollina.
+**Uued päringud:**
+- [examples/Sanktsioonid.pq](examples/Sanktsioonid.pq): GitHub Pagesi JSON, allikate ja värskuse valideerimine, üks rida IMO kohta; väljundveerud IMO, EU, OFAC, UK, Allikad, AndmedSeisugaUTC.
+- [examples/LaevadeKontroll.pq](examples/LaevadeKontroll.pq): loeb kliendi privaatset tabelit **Vessel_List**, kontrollib IMO kontrollnumbrit, ühendab allikavasted ja säilitab algsed laevaandmed; vana J:L tulemused vahetatakse uue päringu väljundis välja.
+- [examples/SanktsiooniVasted.pq](examples/SanktsiooniVasted.pq): alternatiivne pikem vastete loend detailandmetega.
 
-Väljundid:
-- VASTE LEITUD – vähemalt üks IMO-vastavus sanktsiooniallikas.
-- VASTET EI LEITUD KONTROLLITUD NIMEKIRJADEST – mitte tehingu lubatavuse kinnitamine.
-- KONTROLLIMATA – vigane IMO – sisend vajab parandamist.
-- Power Query värskuse/versiooni viga – kontroll pole valmis, ära käsitle puuduvat vastet negatiivse tulemusena.
+**Kasutuselevõtu sammud (Windows Excel Desktop):**
+1. Hoia originaalfailist varukoopia ning ava see Excelis.
+2. Data → Get Data → From Other Sources → Blank Query → Advanced Editor; kleebi `Sanktsioonid.pq` sisu. Nimeta päring **Sanktsioonid** ning vali veebiühenduse jaoks **Anonymous**.
+3. Loo teise Blank Query kaudu **LaevadeKontroll**, kleebi `LaevadeKontroll.pq` ja kontrolli, et see viitab olemasolevale **Vessel_List** tabelile.
+4. **Load To → Table → New worksheet**. Ära laadi tulemust vana Vessel List töölehe peale, kuna Power Query ei tohi kirjutada oma sisendtabelisse ega rikkuda ettevõtte arvutusvalemeid.
+5. Kontrolli uuel lehel 1718 registrikirje olemasolu (sealhulgas korduvad IMO numbrid), 38 sanktsioonivastega rida ja 7 vigase IMO-ga rida vastavalt 22.10.2026 kontrollseisule. Hilisem ametlik andmestik võib arve muuta.
+6. Data → Refresh All; Queries & Connections vaates peavad mõlemad uued päringud edukalt lõpetama. Kui vanad päringud **sdn**, **UK-Sanctions-List** ja **Table 1** põhjustavad Refresh All probleeme, lülita nende Properties alt **Include in Refresh All** välja alles pärast uue kontrolli toimimise kinnitamist.
+7. Kuna nurjunud Power Query võib jätta tabelisse vana edukalt loetud tulemuse, jälgi alati **AndmedSeisugaUTC** veergu ja päringute viimast värskendust. Aegunud andmestikku ei tohi tõlgendada negatiivseks sanktsioonikontrolliks.
+8. Pärast edukat testimist saab vana kolme lähteandmete lehe eemaldamise ja vanade J:L valemite asendamise eraldi planeerida. Ära tee seda enne, kui kindlustuse hinnastus ja sõltuvad valemid on kontrollitud.
+
+Väljundid: **VASTE LEITUD**, **VASTET EI LEITUD KONTROLLITUD LOENDITEST**, **KONTROLLIMATA – VIGANE IMO**. Vaste puudumine ei kinnita tehingu lubatavust.
 
 ## Piirangud ja üleandmine
 
