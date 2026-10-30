@@ -1,7 +1,7 @@
 {
   "source": "OFAC",
   "url": "https://www.treasury.gov/ofac/downloads/sdn.csv",
-  "fetched_at": "2026-10-29T11:34:23Z",
+  "fetched_at": "2026-10-30T11:27:01Z",
   "sha256": "5f240bed79d504e7a54788b4cd1c7f84e6afa56cd4778653b70b0771b6a8509d",
   "records": [
     {
