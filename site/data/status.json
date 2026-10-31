@@ -1,21 +1,21 @@
 {
   "ready": true,
   "schema_version": 1,
-  "generated_at": "2026-10-30T11:27:01Z",
+  "generated_at": "2026-10-31T10:57:42Z",
   "stale_after_days": 7,
   "total_imo_count": 1995,
   "sources": {
     "EU": {
       "url": "https://www.dma.dk/growth-and-framework-conditions/maritime-sanctions/general-information/eu-vessel-designations",
-      "fetched_at": "2026-10-30T11:27:01Z",
+      "fetched_at": "2026-10-31T10:57:42Z",
       "record_count": 673,
-      "sha256": "98aebfe9b61aa83409e4ea3fbddb6a9d7c776be407aa6898d181c41ed050fbd6",
+      "sha256": "721055676a54f5b575f9cbf9891b340f129ebca6704084364aa97873c6dec513",
       "skipped_without_imo": 0,
       "imo_checksum_warnings": 0
     },
     "OFAC": {
       "url": "https://www.treasury.gov/ofac/downloads/sdn.csv",
-      "fetched_at": "2026-10-30T11:27:01Z",
+      "fetched_at": "2026-10-31T10:57:42Z",
       "record_count": 1553,
       "sha256": "5f240bed79d504e7a54788b4cd1c7f84e6afa56cd4778653b70b0771b6a8509d",
       "skipped_without_imo": 15,
@@ -23,9 +23,9 @@
     },
     "UK": {
       "url": "https://sanctionslist.fcdo.gov.uk/docs/UK-Sanctions-List.csv",
-      "fetched_at": "2026-10-30T11:27:01Z",
+      "fetched_at": "2026-10-31T10:57:42Z",
       "record_count": 815,
-      "sha256": "e7a088b23a78809029e53a7afe9d541bffda4d9a82c5184c3ffc0e45f7e0494b",
+      "sha256": "aedb38de5d38db1ba418edfebd16e532d5012ac6698f70a63427680468143791",
       "skipped_without_imo": 1,
       "imo_checksum_warnings": 0
     }
