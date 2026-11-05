@@ -1,8 +1,8 @@
 {
   "source": "OFAC",
   "url": "https://www.treasury.gov/ofac/downloads/sdn.csv",
-  "fetched_at": "2026-11-04T13:02:38Z",
-  "sha256": "5f240bed79d504e7a54788b4cd1c7f84e6afa56cd4778653b70b0771b6a8509d",
+  "fetched_at": "2026-11-05T13:16:36Z",
+  "sha256": "ebbbce82570fd05f5f53db0f30eca2541a914b47f1044a1568760b51a4753654",
   "records": [
     {
       "imo": "1006960",
