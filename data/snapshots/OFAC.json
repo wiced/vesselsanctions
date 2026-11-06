@@ -1,8 +1,8 @@
 {
   "source": "OFAC",
   "url": "https://www.treasury.gov/ofac/downloads/sdn.csv",
-  "fetched_at": "2026-11-05T13:16:36Z",
-  "sha256": "ebbbce82570fd05f5f53db0f30eca2541a914b47f1044a1568760b51a4753654",
+  "fetched_at": "2026-11-06T12:59:44Z",
+  "sha256": "8e94d8715b81f54a7d769c52af7fcefea19d48eead54bb9d974f4a62dadd9536",
   "records": [
     {
       "imo": "1006960",
@@ -5277,6 +5277,14 @@
       "listed_date": ""
     },
     {
+      "imo": "9242209",
+      "name": "EMILIA",
+      "source": "OFAC",
+      "program": "CUBA-EO14404",
+      "reference": "59068",
+      "listed_date": ""
+    },
+    {
       "imo": "9242223",
       "name": "SHUN TAI",
       "source": "OFAC",
@@ -5998,9 +6006,9 @@
     },
     {
       "imo": "9259692",
-      "name": "GIRALT",
+      "name": "LOURDES",
       "source": "OFAC",
-      "program": "VENEZUELA-EO13850",
+      "program": "VENEZUELA-EO13850] [CUBA-EO14404",
       "reference": "27425",
       "listed_date": ""
     },
@@ -6864,7 +6872,7 @@
       "imo": "9289166",
       "name": "ESPERANZA",
       "source": "OFAC",
-      "program": "VENEZUELA-EO13850",
+      "program": "VENEZUELA-EO13850] [CUBA-EO14404",
       "reference": "26704",
       "listed_date": ""
     },
@@ -9758,9 +9766,9 @@
     },
     {
       "imo": "9502453",
-      "name": "CARLOTA C",
+      "name": "MARIA CRISTINA",
       "source": "OFAC",
-      "program": "VENEZUELA-EO13850",
+      "program": "VENEZUELA-EO13850] [CUBA-EO14404",
       "reference": "27431",
       "listed_date": ""
     },
@@ -9962,6 +9970,14 @@
       "source": "OFAC",
       "program": "RUSSIA-EO14024",
       "reference": "37028",
+      "listed_date": ""
+    },
+    {
+      "imo": "9540273",
+      "name": "GLORIA C",
+      "source": "OFAC",
+      "program": "CUBA-EO14404",
+      "reference": "58910",
       "listed_date": ""
     },
     {
@@ -12429,7 +12445,7 @@
       "listed_date": ""
     }
   ],
-  "record_count": 1553,
+  "record_count": 1555,
   "skipped_without_imo": 15,
   "imo_checksum_warnings": 0
 }
