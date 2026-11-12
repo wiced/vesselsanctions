@@ -1,19 +1,19 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-11T12:46:38Z",
+  "generated_at": "2026-11-12T13:48:56Z",
   "stale_after_days": 7,
   "sources": {
     "EU": {
       "url": "https://www.dma.dk/growth-and-framework-conditions/maritime-sanctions/general-information/eu-vessel-designations",
-      "fetched_at": "2026-11-11T12:46:38Z",
+      "fetched_at": "2026-11-12T13:48:56Z",
       "record_count": 673,
-      "sha256": "eeacfaed95702eddd4f433b255d29d85729225c54bf2d57aa34ac84b70b54d32",
+      "sha256": "bd018ff2442b83ac038cb4fe84b65c09c487925b0daddf155a9ee616d16e417c",
       "skipped_without_imo": 0,
       "imo_checksum_warnings": 0
     },
     "OFAC": {
       "url": "https://www.treasury.gov/ofac/downloads/sdn.csv",
-      "fetched_at": "2026-11-11T12:46:38Z",
+      "fetched_at": "2026-11-12T13:48:56Z",
       "record_count": 1555,
       "sha256": "7f43332dae0d1b78ce44c31692d87a3c66e4075bcd97e36d3f18585572ff55b8",
       "skipped_without_imo": 15,
@@ -21,9 +21,9 @@
     },
     "UK": {
       "url": "https://sanctionslist.fcdo.gov.uk/docs/UK-Sanctions-List.csv",
-      "fetched_at": "2026-11-11T12:46:38Z",
-      "record_count": 815,
-      "sha256": "06e8b9290460dfc71d4bcad8af13cc3c01f32f5ed2aa9ae21547dd707d434045",
+      "fetched_at": "2026-11-12T13:48:56Z",
+      "record_count": 837,
+      "sha256": "8f8221ba7005645c0027b150ee044b9c02ae1291bd56eab1a8079f743458e61c",
       "skipped_without_imo": 1,
       "imo_checksum_warnings": 0
     }
@@ -12591,6 +12591,20 @@
           "program": "EU Regulation 833/2014, Annex XLII",
           "reference": "",
           "listed_date": "24.04.2026"
+        },
+        {
+          "source": "UK",
+          "name": "IMO 9252967",
+          "program": "The Russia (Sanctions) (EU Exit) Regulations 2019",
+          "reference": "RUS3810",
+          "listed_date": "12/11/2026"
+        },
+        {
+          "source": "UK",
+          "name": "YVIKA",
+          "program": "The Russia (Sanctions) (EU Exit) Regulations 2019",
+          "reference": "RUS3810",
+          "listed_date": "12/11/2026"
         }
       ]
     },
@@ -15087,6 +15101,20 @@
           "program": "RUSSIA-EO14024",
           "reference": "47221",
           "listed_date": ""
+        },
+        {
+          "source": "UK",
+          "name": "APEKS",
+          "program": "The Russia (Sanctions) (EU Exit) Regulations 2019",
+          "reference": "RUS3797",
+          "listed_date": "12/11/2026"
+        },
+        {
+          "source": "UK",
+          "name": "IMO 9274616",
+          "program": "The Russia (Sanctions) (EU Exit) Regulations 2019",
+          "reference": "RUS3797",
+          "listed_date": "12/11/2026"
         }
       ]
     },
@@ -20615,6 +20643,26 @@
         }
       ]
     },
+    "9321304": {
+      "imo": "9321304",
+      "name": "ALMA",
+      "matches": [
+        {
+          "source": "UK",
+          "name": "ALMA",
+          "program": "The Russia (Sanctions) (EU Exit) Regulations 2019",
+          "reference": "RUS3811",
+          "listed_date": "12/11/2026"
+        },
+        {
+          "source": "UK",
+          "name": "IMO 9321304",
+          "program": "The Russia (Sanctions) (EU Exit) Regulations 2019",
+          "reference": "RUS3811",
+          "listed_date": "12/11/2026"
+        }
+      ]
+    },
     "9321421": {
       "imo": "9321421",
       "name": "LARA II",
@@ -25296,6 +25344,26 @@
         }
       ]
     },
+    "9402328": {
+      "imo": "9402328",
+      "name": "IMO 9402328",
+      "matches": [
+        {
+          "source": "UK",
+          "name": "IMO 9402328",
+          "program": "The Russia (Sanctions) (EU Exit) Regulations 2019",
+          "reference": "RUS3798",
+          "listed_date": "12/11/2026"
+        },
+        {
+          "source": "UK",
+          "name": "SARA SKY",
+          "program": "The Russia (Sanctions) (EU Exit) Regulations 2019",
+          "reference": "RUS3798",
+          "listed_date": "12/11/2026"
+        }
+      ]
+    },
     "9402469": {
       "imo": "9402469",
       "name": "Freda",
@@ -27162,6 +27230,26 @@
           "program": "The Russia (Sanctions) (EU Exit) Regulations 2019",
           "reference": "RUS2765",
           "listed_date": "17/06/2025"
+        }
+      ]
+    },
+    "9460564": {
+      "imo": "9460564",
+      "name": "BALU 6",
+      "matches": [
+        {
+          "source": "UK",
+          "name": "BALU 6",
+          "program": "The Russia (Sanctions) (EU Exit) Regulations 2019",
+          "reference": "RUS3799",
+          "listed_date": "12/11/2026"
+        },
+        {
+          "source": "UK",
+          "name": "IMO 9460564",
+          "program": "The Russia (Sanctions) (EU Exit) Regulations 2019",
+          "reference": "RUS3799",
+          "listed_date": "12/11/2026"
         }
       ]
     },
@@ -29224,6 +29312,20 @@
           "program": "UKRAINE-EO13662] [RUSSIA-EO14024",
           "reference": "51657",
           "listed_date": ""
+        },
+        {
+          "source": "UK",
+          "name": "IMO9630028",
+          "program": "The Russia (Sanctions) (EU Exit) Regulations 2019",
+          "reference": "RUS3805",
+          "listed_date": "12/11/2026"
+        },
+        {
+          "source": "UK",
+          "name": "PERLE",
+          "program": "The Russia (Sanctions) (EU Exit) Regulations 2019",
+          "reference": "RUS3805",
+          "listed_date": "12/11/2026"
         }
       ]
     },
@@ -32706,6 +32808,20 @@
           "program": "RUSSIA-EO14024",
           "reference": "45007",
           "listed_date": ""
+        },
+        {
+          "source": "UK",
+          "name": "IMO9915105",
+          "program": "The Russia (Sanctions) (EU Exit) Regulations 2019",
+          "reference": "RUS3806",
+          "listed_date": "12/11/2026"
+        },
+        {
+          "source": "UK",
+          "name": "KORYAK FSU",
+          "program": "The Russia (Sanctions) (EU Exit) Regulations 2019",
+          "reference": "RUS3806",
+          "listed_date": "12/11/2026"
         }
       ]
     },
@@ -33296,6 +33412,86 @@
           "program": "The Russia (Sanctions) (EU Exit) Regulations 2019",
           "reference": "RUS3116",
           "listed_date": "15/10/2025"
+        }
+      ]
+    },
+    "9958298": {
+      "imo": "9958298",
+      "name": "AEOLUS",
+      "matches": [
+        {
+          "source": "UK",
+          "name": "AEOLUS",
+          "program": "The Russia (Sanctions) (EU Exit) Regulations 2019",
+          "reference": "RUS3807",
+          "listed_date": "12/11/2026"
+        },
+        {
+          "source": "UK",
+          "name": "IMO9958298",
+          "program": "The Russia (Sanctions) (EU Exit) Regulations 2019",
+          "reference": "RUS3807",
+          "listed_date": "12/11/2026"
+        }
+      ]
+    },
+    "9958303": {
+      "imo": "9958303",
+      "name": "IMO 9958303",
+      "matches": [
+        {
+          "source": "UK",
+          "name": "IMO 9958303",
+          "program": "The Russia (Sanctions) (EU Exit) Regulations 2019",
+          "reference": "RUS3795",
+          "listed_date": "12/11/2026"
+        },
+        {
+          "source": "UK",
+          "name": "MELICERTES",
+          "program": "The Russia (Sanctions) (EU Exit) Regulations 2019",
+          "reference": "RUS3795",
+          "listed_date": "12/11/2026"
+        }
+      ]
+    },
+    "9958315": {
+      "imo": "9958315",
+      "name": "IMO 9958315",
+      "matches": [
+        {
+          "source": "UK",
+          "name": "IMO 9958315",
+          "program": "The Russia (Sanctions) (EU Exit) Regulations 2019",
+          "reference": "RUS3796",
+          "listed_date": "12/11/2026"
+        },
+        {
+          "source": "UK",
+          "name": "NELEUS",
+          "program": "The Russia (Sanctions) (EU Exit) Regulations 2019",
+          "reference": "RUS3796",
+          "listed_date": "12/11/2026"
+        }
+      ]
+    },
+    "9958327": {
+      "imo": "9958327",
+      "name": "IMO9958327",
+      "matches": [
+        {
+          "source": "UK",
+          "name": "IMO9958327",
+          "program": "The Russia (Sanctions) (EU Exit) Regulations 2019",
+          "reference": "RUS3808",
+          "listed_date": "12/11/2026"
+        },
+        {
+          "source": "UK",
+          "name": "ONEIROI",
+          "program": "The Russia (Sanctions) (EU Exit) Regulations 2019",
+          "reference": "RUS3808",
+          "listed_date": "12/11/2026"
         }
       ]
     },
