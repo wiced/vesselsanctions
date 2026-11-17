@@ -1,8 +1,8 @@
 {
   "source": "UK",
   "url": "https://sanctionslist.fcdo.gov.uk/docs/UK-Sanctions-List.csv",
-  "fetched_at": "2026-11-16T13:43:56Z",
-  "sha256": "61ecaa0d20f6def55d1acf3727fad0018a54f5a815b1e9654b72ab006f4b3591",
+  "fetched_at": "2026-11-17T14:32:37Z",
+  "sha256": "90f2fd8058fb33b48ea17f81473308db77f507d8b149e77b8ff0ec56375ab8ca",
   "records": [
     {
       "imo": "7303803",
